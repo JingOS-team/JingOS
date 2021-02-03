@@ -4,8 +4,8 @@
 
 [Download JingOS V0.6](https://forum.jingos.com/t/jingos-v0-6-release/514)
 
-[Join our mailing list](http://hk.mikecrm.com/pg5E05S)
-[Join our Telegram](https://t.me/JingOS_Linux)
+[Join our mailing list](http://hk.mikecrm.com/pg5E05S) | 
+[Join our Telegram](https://t.me/JingOS_Linux) | 
 [Join our Discord](https://discord.gg/xEwDGW7RnJ)
 
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
