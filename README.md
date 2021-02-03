@@ -1,5 +1,5 @@
 # JingOS
-### The World’s First iPadOS-style Linux Distribution
+### The World’s First Linux-based OS design for Tablets
 [Our video introduction](https://www.youtube.com/watch?v=3E0ADUIiFzA)
 
 [Download JingOS V0.6](https://forum.jingos.com/t/jingos-v0-6-release/514)
