@@ -1,5 +1,6 @@
 # JingOS
 ### The World’s First iPadOS-style Linux Distribution
+[Our video introduction](https://www.youtube.com/watch?v=3E0ADUIiFzA)
 
 [Download JingOS V0.6](https://forum.jingos.com/t/jingos-v0-6-release/514)
 
