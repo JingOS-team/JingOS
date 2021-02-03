@@ -1,6 +1,10 @@
 # JingOS
 ### The World’s First iPadOS-style Linux Distro
 
+[Download JingOS V0.6](https://forum.jingos.com/t/jingos-v0-6-release/514)
+
+[Join our mailing list](http://hk.mikecrm.com/pg5E05S)
+
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
 
 ### Mobile First, Well Designed
@@ -29,9 +33,13 @@ JingOS is a full-function Linux based on Ubuntu. It can run desktop Linux apps l
 
 JingOS optimized the gestures for your trackpad too. You can use trackpad gestures similar to screen gestures. That makes you a better experience when you are using your device in laptop mode.
 
-### About US
+### About us
 JingOS is a product of Jingling Tech. Jing/鲸 means Whale, and Ling/鲮 means Dace Fish in Chinese. The logo of JingLing is two fishes together which means a small ecosystem.
 
 We have a team of very experienced Linux experts who had previously worked at Lenovo, Alibaba, Samsung, Canonical/Ubuntu, Trolltech and other famous IT Companies.
 
 We are based in Beijing and California.
+
+## Contact us
+lcc@jingos.com
+
