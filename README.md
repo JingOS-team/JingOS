@@ -33,12 +33,52 @@ JingOS is a full-function Linux based on Ubuntu. It can run desktop Linux apps l
 
 JingOS optimized the gestures for your trackpad too. You can use trackpad gestures similar to screen gestures. That makes you a better experience when you are using your device in laptop mode.
 
-### About us
+## About us
 JingOS is a product of Jingling Tech. Jing/鲸 means Whale, and Ling/鲮 means Dace Fish in Chinese. The logo of JingLing is two fishes together which means a small ecosystem.
 
 We have a team of very experienced Linux experts who had previously worked at Lenovo, Alibaba, Samsung, Canonical/Ubuntu, Trolltech and other famous IT Companies.
 
 We are based in Beijing and California.
+
+## FAQ
+
+  Is JingOS going to be opensource? And free software?
+
+  > Yes, JingOS will open-source step by step. We will update the Github project 323 every half year. And JingOS will be free forever.
+
+  What is JingOS based on?
+
+  > JingOS is based on Ubuntu 20.04, KDE v5.75, Plasma Mobile 5.20. We will replace the framework from Plasma Mobile to JDE(Jing Desktop Environment) later this year.
+
+  What’s the roadmap of JingOS?
+
+  > I posted about Roadmap v1.0 of JingOS 90 in January. I will update the roadmap every quarter.
+
+  If JingOS is a tablet OS, does it require apps to respect the life cycle, like what happens when suspended? How does it manage permission? Is there a permission system like iOS? Are the apps sandboxed? If it can just run Linux apps, how would they respect life cycle, permission, and stuff? Will you use snap/flatpak for the permissions system?
+
+  > Life-cycle management API will come with JingOS v0.8 in March, apps designed for JingOS can be suspended like any other tablet OSs. The permission system and app sandbox are still in discussion, not decided yet.
+
+  Compared to other Linux distros, is JingOS optimized for tablet only in the UI / specialized apps, or are there performance tweaks/features as well. Is it basically like a gnome / KDE but with a tablet first focussed, or are there any “lower-level” differences? What kind of lower-level differences? Drivers? Performance enhancements? What will it help Linux do on tablets especially?
+
+  > JingOS v0.6 is mostly optimized only in the UI and specialized apps. But JingOS v0.8 would have lots of lower differences, like performance enhancements.
+
+  Do apps have to be created for JingOS to work well? Could I use Spotify or Discord apps on it, or would there need to be JingOS versions first? JingOS just run normal Linux apps, right? So we should be able to build and run Flutter desktop apps on it? Will JingOS support android apps? To fill the gap with missing popular apps.
+
+  > Linux apps (.deb, etc.) can run in JingOS well. You can run Android apps in the JingOS ARM version after v1.0 in June.
+
+## Roadmap
+  * JingOS v0.6: will be released on Jan 31, 2021. Has been tested on Surface Pro 6, Huawei Matebook 14. This is a preview version of JingOS. You can have the control panel and notification center on your Linux tablets just like the iPads! You can check the preview video of the JingOS v0.6 here 302.
+
+  * JingOS v0.8: will be released on Mar 31, 2021. Huge updates will be available, including the JingOS App Store, Settings, File Managers, etc. And a whole new virtual keyboard designed for Linux will be available too. OTA will be functional since v0.8. Several other devices will be tested for JingOS v0.8 besides SP6 and HM14 mentioned above.
+
+  * JingOS v1.0: will be released on Jun 30, 2021. Start supporting the JingPad C1, which is an ARM-based device.
+
+  #### We will release updates every month after June.
+
+  ### About open sourcing:
+
+  > JingOS is based on Ubuntu 20.04, KDE v5.75, Plasma Mobile 5.20. We will replace the framework from Plasma Mobile to JDE(Jing Desktop Environment) later this year.
+
 
 ## Press
 
