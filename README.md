@@ -36,7 +36,7 @@ JingOS is a full-function Linux based on Ubuntu. It can run desktop Linux apps l
 
 JingOS optimized the gestures for your trackpad too. You can use trackpad gestures similar to screen gestures. That makes you a better experience when you are using your device in laptop mode.
 
-## Opensource Roadmap
+## Our Opensource Project
   [Jing-Photos](https://www.youtube.com/watch?v=3E0ADUIiFzA)
   Jing-Photos is based on Koko github , a beautifully designed photos that conforms to the JingOS style and has a compatible pad / desktop experience.
   
