@@ -1,8 +1,8 @@
 ## Our Opensource Project
-  [JingCore-WindowMaanger](https://www.youtube.com/watch?v=3E0ADUIiFzA)
+  [JingCore-WindowMaanger](https://github.com/JingOS-team/jing-kwin)
   JingCore-WindowMaanger is based on KDE Kwin , and add gestures and other functions  designed for a Tablet OS.
 
-  [JingCore-CommonComponents](https://www.youtube.com/watch?v=3E0ADUIiFzA)
+  [JingCore-CommonComponents](https://github.com/JingOS-team/jing-kirigami)
   JingCore-CommonComponents is based on KDE Kirigami , and add more  components  well designed for the Tablet OS. 
 
   [JingApps-Photos](https://www.youtube.com/watch?v=3E0ADUIiFzA)
