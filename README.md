@@ -1,3 +1,22 @@
+## Our Opensource Project
+  [Jing-Photos](https://www.youtube.com/watch?v=3E0ADUIiFzA)
+  Jing-Photos is based on Koko github , a beautifully designed photos that conforms to the JingOS style and has a compatible pad / desktop experience.
+  
+  [Jing-Kalk](https://github.com/JingOS-team/jing-kalk)
+  Jing-Kalk is based on Kalk gitlab.Jing-Kalk is a beautifully designed calculator that conforms to the JingOS style and Integrating the interactive experience of pad and PC.
+  
+  [Jing-Haruna Video Player](https://github.com/JingOS-team/jing-haruna)
+  Jing-Haruna is an open source video player built with Qt/QML on top of libmpv.
+
+  [Jing-KRecorder](https://github.com/JingOS-team/jing-krecorder)
+  Jing-KRecorder is based on KRecorder gitlab , a beautifully designed jing-krecorder that conforms to the JingOS style and has a compatible pad / desktop experience.
+
+  [Jing-KClock](https://github.com/JingOS-team/jing-kclock)
+  Jing-KClock is based on KClock github , a beautifully designed clock that conforms to the JingOS style and has a compatible pad / desktop experience.
+
+  [Jing-Media-Player](https://github.com/JingOS-team/jing-media-player)
+  Jing-Media-Player is based on vvave github ,  Support the scan and display of audio and video files that conforms to the JingOS style and has a compatible pad / desktop experience.
+
 # JingOS
 ### The World’s First Linux-based OS design for Tablets
 [Our video introduction](https://www.youtube.com/watch?v=3E0ADUIiFzA)
@@ -36,24 +55,6 @@ JingOS is a full-function Linux based on Ubuntu. It can run desktop Linux apps l
 
 JingOS optimized the gestures for your trackpad too. You can use trackpad gestures similar to screen gestures. That makes you a better experience when you are using your device in laptop mode.
 
-## Our Opensource Project
-  [Jing-Photos](https://www.youtube.com/watch?v=3E0ADUIiFzA)
-  Jing-Photos is based on Koko github , a beautifully designed photos that conforms to the JingOS style and has a compatible pad / desktop experience.
-  
-  [Jing-Kalk](https://github.com/JingOS-team/jing-kalk)
-  Jing-Kalk is based on Kalk gitlab.Jing-Kalk is a beautifully designed calculator that conforms to the JingOS style and Integrating the interactive experience of pad and PC.
-  
-  [Jing-Haruna Video Player](https://github.com/JingOS-team/jing-haruna)
-  Jing-Haruna is an open source video player built with Qt/QML on top of libmpv.
-
-  [Jing-KRecorder](https://github.com/JingOS-team/jing-krecorder)
-  Jing-KRecorder is based on KRecorder gitlab , a beautifully designed jing-krecorder that conforms to the JingOS style and has a compatible pad / desktop experience.
-
-  [Jing-KClock](https://github.com/JingOS-team/jing-kclock)
-  Jing-KClock is based on KClock github , a beautifully designed clock that conforms to the JingOS style and has a compatible pad / desktop experience.
-
-  [Jing-Media-Player](https://github.com/JingOS-team/jing-media-player)
-  Jing-Media-Player is based on vvave github ,  Support the scan and display of audio and video files that conforms to the JingOS style and has a compatible pad / desktop experience.
 
 ## About us
   JingOS is a product of Jingling Tech. Jing/鲸 means Whale, and Ling/鲮 means Dace Fish in Chinese. The logo of JingLing is two fishes together which means a small ecosystem.
