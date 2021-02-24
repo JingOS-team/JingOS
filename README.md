@@ -1,20 +1,26 @@
 ## Our Opensource Project
-  [Jing-Photos](https://www.youtube.com/watch?v=3E0ADUIiFzA)
+  [JingCore-WindowMaanger](https://www.youtube.com/watch?v=3E0ADUIiFzA)
+  JingCore-WindowMaanger is based on KDE Kwin , and add gestures and other functions  designed for a Tablet OS.
+
+  [JingCore-CommonComponents](https://www.youtube.com/watch?v=3E0ADUIiFzA)
+  JingCore-CommonComponents is based on KDE Kirigami , and add more  components  well designed for the Tablet OS. 
+
+  [JingApps-Photos](https://www.youtube.com/watch?v=3E0ADUIiFzA)
   Jing-Photos is based on Koko github , a beautifully designed photos that conforms to the JingOS style and has a compatible pad / desktop experience.
   
-  [Jing-Kalk](https://github.com/JingOS-team/jing-kalk)
+  [JingApps-Kalk](https://github.com/JingOS-team/jing-kalk)
   Jing-Kalk is based on Kalk gitlab.Jing-Kalk is a beautifully designed calculator that conforms to the JingOS style and Integrating the interactive experience of pad and PC.
   
-  [Jing-Haruna Video Player](https://github.com/JingOS-team/jing-haruna)
+  [JingApps-Haruna Video Player](https://github.com/JingOS-team/jing-haruna)
   Jing-Haruna is an open source video player built with Qt/QML on top of libmpv.
 
-  [Jing-KRecorder](https://github.com/JingOS-team/jing-krecorder)
+  [JingApps-KRecorder](https://github.com/JingOS-team/jing-krecorder)
   Jing-KRecorder is based on KRecorder gitlab , a beautifully designed jing-krecorder that conforms to the JingOS style and has a compatible pad / desktop experience.
 
-  [Jing-KClock](https://github.com/JingOS-team/jing-kclock)
+  [JingApps-KClock](https://github.com/JingOS-team/jing-kclock)
   Jing-KClock is based on KClock github , a beautifully designed clock that conforms to the JingOS style and has a compatible pad / desktop experience.
 
-  [Jing-Media-Player](https://github.com/JingOS-team/jing-media-player)
+  [JingApps-Media-Player](https://github.com/JingOS-team/jing-media-player)
   Jing-Media-Player is based on vvave github ,  Support the scan and display of audio and video files that conforms to the JingOS style and has a compatible pad / desktop experience.
 
 # JingOS
