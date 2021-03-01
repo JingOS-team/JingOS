@@ -1,3 +1,24 @@
 [submodule "framwork/jing-kwin"]
 	path = framwork/jing-kwin
 	url = https://github.com/JingOS-team/jing-kwin.git
+[submodule "framwork/jing-kirigami"]
+	path = framwork/jing-kirigami
+	url = https://github.com/JingOS-team/jing-kirigami.git
+[submodule "apps/jing-media-player"]
+	path = apps/jing-media-player
+	url = https://github.com/JingOS-team/jing-media-player.git
+[submodule "apps/jing-haruna"]
+	path = apps/jing-haruna
+	url = https://github.com/JingOS-team/jing-haruna.git
+[submodule "apps/jing-photos"]
+	path = apps/jing-photos
+	url = https://github.com/JingOS-team/jing-photos.git
+[submodule "apps/jing-krecorder"]
+	path = apps/jing-krecorder
+	url = https://github.com/JingOS-team/jing-krecorder.git
+[submodule "apps/jing-kalk"]
+	path = apps/jing-kalk
+	url = https://github.com/JingOS-team/jing-kalk.git
+[submodule "apps/jing-kclock"]
+	path = apps/jing-kclock
+	url = https://github.com/JingOS-team/jing-kclock.git
