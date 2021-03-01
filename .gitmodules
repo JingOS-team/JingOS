@@ -1,0 +1,3 @@
+[submodule "framwork/jing-kwin"]
+	path = framwork/jing-kwin
+	url = https://github.com/JingOS-team/jing-kwin.git
