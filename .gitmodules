@@ -16,3 +16,9 @@
 [submodule "apps/jing-kclock"]
 	path = apps/jing-kclock
 	url = https://github.com/JingOS-team/jing-kclock.git
+[submodule "framework/jing-kirigami"]
+	path = framework/jing-kirigami
+	url = https://github.com/JingOS-team/jing-kirigami.git
+[submodule "framework/jing-kwin"]
+	path = framework/jing-kwin
+	url = https://github.com/JingOS-team/jing-kwin.git
