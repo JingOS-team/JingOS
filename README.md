@@ -1,3 +1,15 @@
+# JingOS
+### The World’s First Linux-based OS design for Tablets
+[Our video introduction](https://www.youtube.com/watch?v=3E0ADUIiFzA)
+
+[Download JingOS V0.6](https://forum.jingos.com/t/jingos-v0-6-release/514)
+
+[Join our mailing list](http://hk.mikecrm.com/pg5E05S) | 
+[Join our Telegram](https://t.me/JingOS_Linux) | 
+[Join our Discord](https://discord.gg/xEwDGW7RnJ)
+
+![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
+
 ## Our Opensource Project
   [JingCore-WindowMaanger](https://github.com/JingOS-team/jing-kwin)
   JingCore-WindowManger is based on KDE Kwin , used to manage the application windows , and JingOS add more gestures and other functions that specially designed for a Tablet OS.
@@ -22,18 +34,6 @@
 
   [JingApps-Media-Player](https://github.com/JingOS-team/jing-media-player)
   Jing-Media-Player is based on vvave github ,  Support the scan and display of audio and video files that conforms to the JingOS style and has a compatible pad / desktop experience.
-
-# JingOS
-### The World’s First Linux-based OS design for Tablets
-[Our video introduction](https://www.youtube.com/watch?v=3E0ADUIiFzA)
-
-[Download JingOS V0.6](https://forum.jingos.com/t/jingos-v0-6-release/514)
-
-[Join our mailing list](http://hk.mikecrm.com/pg5E05S) | 
-[Join our Telegram](https://t.me/JingOS_Linux) | 
-[Join our Discord](https://discord.gg/xEwDGW7RnJ)
-
-![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
 
 ### Mobile First, Well Designed
 ![](https://en-cdn.jingos.com/wp-content/uploads/2021/01/%E6%9C%AA%E6%A0%87%E9%A2%98-4.gif)
