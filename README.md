@@ -11,7 +11,7 @@
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
 
 ## Our Opensource Project
-  [JingCore-WindowMaanger](https://github.com/JingOS-team/jing-kwin)
+  [JingCore-WindowManager](https://github.com/JingOS-team/jing-kwin)
   JingCore-WindowManger is based on KDE Kwin , used to manage the application windows , and JingOS add more gestures and other functions that specially designed for a Tablet OS.
 
   [JingCore-CommonComponents](https://github.com/JingOS-team/jing-kirigami)
