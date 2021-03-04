@@ -1,5 +1,5 @@
 # JingOS
-### The World’s First Linux-based OS design for Tablets
+### The World’s First Linux-based OS designed for Tablets
 [Our video introduction](https://www.youtube.com/watch?v=3E0ADUIiFzA)
 
 [Download JingOS V0.6](https://forum.jingos.com/t/jingos-v0-6-release/514)
@@ -11,29 +11,29 @@
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
 
 ## Our Opensource Project
-  [JingCore-WindowMaanger](https://github.com/JingOS-team/jing-kwin)
-  JingCore-WindowManger is based on KDE Kwin , used to manage the application windows , and JingOS add more gestures and other functions that specially designed for a Tablet OS.
+  [JingCore-WindowManger](https://github.com/JingOS-team/jing-kwin)
+  JingCore-WindowManger is based on KDE Kwin , used to manage the application windows, and JingOS add more gestures and other functions that specially designed for a Tablet OS.
 
   [JingCore-CommonComponents](https://github.com/JingOS-team/jing-kirigami)
-  JingCore-CommonComponents is based on KDE Kirigami , and add more  components  well designed for the Tablet OS. 
+  JingCore-CommonComponents is based on KDE Kirigami, and add more  components  well designed for the Tablet OS. 
 
   [JingApps-Photos](https://www.youtube.com/watch?v=3E0ADUIiFzA)
-  Jing-Photos is based on Koko github , a beautifully designed photos that conforms to the JingOS style and has a compatible pad / desktop experience.
+  Jing-Photos is based on Koko, a beautifully designed photos that conforms to the JingOS style and has a compatible pad / desktop experience.
   
   [JingApps-Kalk](https://github.com/JingOS-team/jing-kalk)
-  Jing-Kalk is based on Kalk gitlab.Jing-Kalk is a beautifully designed calculator that conforms to the JingOS style and Integrating the interactive experience of pad and PC.
+  Jing-Kalk is based on Kalk. Jing-Kalk is a beautifully designed calculator that conforms to the JingOS style and Integrating the interactive experience of pad and PC.
   
   [JingApps-Haruna Video Player](https://github.com/JingOS-team/jing-haruna)
   Jing-Haruna is an open source video player built with Qt/QML on top of libmpv.
 
   [JingApps-KRecorder](https://github.com/JingOS-team/jing-krecorder)
-  Jing-KRecorder is based on KRecorder gitlab , a beautifully designed jing-krecorder that conforms to the JingOS style and has a compatible pad / desktop experience.
+  Jing-KRecorder is based on KRecorder, a beautifully designed jing-krecorder that conforms to the JingOS style and has a compatible pad / desktop experience.
 
   [JingApps-KClock](https://github.com/JingOS-team/jing-kclock)
-  Jing-KClock is based on KClock github , a beautifully designed clock that conforms to the JingOS style and has a compatible pad / desktop experience.
+  Jing-KClock is based on KClock, a beautifully designed clock that conforms to the JingOS style and has a compatible pad / desktop experience.
 
   [JingApps-Media-Player](https://github.com/JingOS-team/jing-media-player)
-  Jing-Media-Player is based on vvave github ,  Support the scan and display of audio and video files that conforms to the JingOS style and has a compatible pad / desktop experience.
+  Jing-Media-Player is based on vvave, Support the scan and display of audio and video files that conforms to the JingOS style and has a compatible pad / desktop experience.
 
 ### Mobile First, Well Designed
 ![](https://en-cdn.jingos.com/wp-content/uploads/2021/01/%E6%9C%AA%E6%A0%87%E9%A2%98-4.gif)
@@ -54,12 +54,12 @@ JingOS comes with several basic mobile Linux apps, including Calendar, Timer, Fi
 ### Full-Function Linux That Can Run Desktop Apps
 ![](https://en-cdn.jingos.com/wp-content/uploads/2020/12/donghua1229-3.gif)
 
-JingOS is a full-function Linux based on Ubuntu. It can run desktop Linux apps like VS Code, Libre Office, etc. JingOS is a productive OS designed specifically for tablets.
+JingOS is a full-functional Linux based on Ubuntu. It can run desktop Linux apps like VS Code, LibreOffice, etc. JingOS is a productive OS designed specifically for tablets.
 
 ### Support Trackpad Gestures
 ![](https://en-cdn.jingos.com/wp-content/uploads/2021/01/05-2.gif)
 
-JingOS optimized the gestures for your trackpad too. You can use trackpad gestures similar to screen gestures. That makes you a better experience when you are using your device in laptop mode.
+JingOS optimize the gestures for your trackpad too. You can use trackpad gestures similar to screen gestures. That makes you a better experience when you are using your device in laptop mode.
 
 
 ## About us
@@ -73,11 +73,11 @@ JingOS optimized the gestures for your trackpad too. You can use trackpad gestur
 
   Is JingOS going to be opensource? And free software?
 
-  > Yes, JingOS will open-source step by step. We will update the Github project 323 every half year. And JingOS will be free forever.
+  > Yes, JingOS will open-source step by step. We will update the Github project every half year. And JingOS will be free forever.
 
   What is JingOS based on?
 
-  > JingOS is based on Ubuntu 20.04, KDE v5.75, Plasma Mobile 5.20. We will replace the framework from Plasma Mobile to JDE(Jing Desktop Environment) later this year.
+  > JingOS is based on Ubuntu 20.04, KDE v5.75, Plasma Mobile 5.20. We will replace the framework from Plasma Mobile to JDE (Jing Desktop Environment) later this year.
 
   What’s the roadmap of JingOS?
 
@@ -106,7 +106,7 @@ JingOS optimized the gestures for your trackpad too. You can use trackpad gestur
 
   ### About open sourcing:
 
-  > JingOS is based on Ubuntu 20.04, KDE v5.75, Plasma Mobile 5.20. We will replace the framework from Plasma Mobile to JDE(Jing Desktop Environment) later this year.
+  > JingOS is based on Ubuntu 20.04, KDE v5.75, Plasma Mobile 5.20. We will replace the framework from Plasma Mobile to JDE (Jing Desktop Environment) later this year.
 
 
 ## Press
