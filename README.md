@@ -1,5 +1,7 @@
 # JingOS
 ### The World’s First Linux-based OS designed for Tablets
+[JingPad A1](https://en.jingos.com/jingpad-a1/) - It is the World’s FIRST Consumer-level Linux Tablet.
+
 [Our video introduction](https://www.youtube.com/watch?v=3E0ADUIiFzA)
 
 [Download JingOS V0.6](https://forum.jingos.com/t/jingos-v0-6-release/514)
