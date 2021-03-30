@@ -22,3 +22,6 @@
 [submodule "framework/jing-kwin"]
 	path = framework/jing-kwin
 	url = https://github.com/JingOS-team/jing-kwin.git
+[submodule "apps/jing-calendar"]
+	path = apps/jing-calendar
+	url = https://github.com/JingOS-team/jing-calendar
