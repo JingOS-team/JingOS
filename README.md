@@ -20,7 +20,7 @@
   JingCore-CommonComponents is based on KDE Kirigami, and add more  components  well designed for the Tablet OS. 
   
   
-  [jing-plasma-phone-components](https://github.com/JingOS-team/jing-plasma-phone-components)
+  [JingSystemui-Home](https://github.com/JingOS-team/jing-plasma-phone-components)
   This is the Homescreen of JingOS, which is based on KDE plasma-phone-components.
 
   [JingApps-Photos](https://www.youtube.com/watch?v=3E0ADUIiFzA)
