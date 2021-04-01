@@ -25,3 +25,6 @@
 [submodule "apps/jing-calendar"]
 	path = apps/jing-calendar
 	url = https://github.com/JingOS-team/jing-calendar
+[submodule "systemui/jing-plasma-phone-components"]
+	path = systemui/jing-plasma-phone-components
+	url = https://github.com/JingOS-team/jing-plasma-phone-components
