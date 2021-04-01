@@ -28,6 +28,6 @@
 [submodule "systemui/jing-plasma-phone-components"]
 	path = systemui/jing-plasma-phone-components
 	url = https://github.com/JingOS-team/jing-plasma-phone-components
-[submodule "framework/jing-plasma-wrokspace"]
-	path = framework/jing-plasma-wrokspace
-	url = https://github.com/JingOS-team/jing-plasma-wrokspace
+[submodule "framework/jing-plasma-workspace"]
+	path = framework/jing-plasma-workspace
+	url = https://github.com/JingOS-team/jing-plasma-workspace
