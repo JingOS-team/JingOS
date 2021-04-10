@@ -1,122 +1,122 @@
 # JingOS
-### The World’s First Linux-based OS designed for Tablets
-[JingPad A1](https://en.jingos.com/jingpad-a1/) - It is the World’s FIRST Consumer-level Linux Tablet.
+### OS Linux pertama di dunia yang di desain khusus untuk Tablet
+[JingPad A1](https://en.jingos.com/jingpad-a1/) - Tablet tingkat-konsumen dengan OS Linux PERTAMA di dunia
 
-[Our video introduction](https://www.youtube.com/watch?v=3E0ADUIiFzA)
+[Video perkenalan kami](https://www.youtube.com/watch?v=3E0ADUIiFzA)
 
-[Download JingOS V0.6](https://forum.jingos.com/t/jingos-v0-6-release/514)
+[Unduh JingOS V0.6](https://forum.jingos.com/t/jingos-v0-6-release/514)
 
-[Join our mailing list](http://hk.mikecrm.com/pg5E05S) | 
-[Join our Telegram](https://t.me/JingOS_Linux) | 
-[Join our Discord](https://discord.gg/xEwDGW7RnJ)
+[Bergabunglah dengan Mailing List kami](http://hk.mikecrm.com/pg5E05S) | 
+[Bergabunglah dengan grup Telegram kami](https://t.me/JingOS_Linux) | 
+[Bergabunglah dengan server Discord kami](https://discord.gg/xEwDGW7RnJ)
 
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
 
-## Our Opensource Project
+## Proyek *Open Source* kami
   [JingCore-WindowManger](https://github.com/JingOS-team/jing-kwin)
-  JingCore-WindowManger is based on KDE Kwin , used to manage the application windows, and JingOS add more gestures and other functions that specially designed for a Tablet OS.
+JingCore-WindowManager berbasis pada KDE Kwin, berfungsi untuk mengelola jendela aplikasi, dan JingOS menambah gestur dan fungsi lain yang di desain khusus untuk OS Tablet.
 
   [JingCore-CommonComponents](https://github.com/JingOS-team/jing-kirigami)
-  JingCore-CommonComponents is based on KDE Kirigami, and add more  components  well designed for the Tablet OS. 
+JingCore-CommonComponents berbasis pada KDE Kirigami, dan tambahan komponen yang di desain dengan baik untuk OS Tablet. 
   
   [JingSystemui-Launcher](https://github.com/JingOS-team/jing-plasma-phone-components)
-  This is the Launhcer of JingOS, include Home, Dock, Notification, Control Panel, which is based on KDE plasma-phone-components.
+Ini adalah Launcher untuk JingOS, termasuk *Home*, *Dock*, Notifikasi, dan Panel Kontrol, yang berbasis pada KDE plasma-phone-components.
 
   [JingApps-Photos](https://www.youtube.com/watch?v=3E0ADUIiFzA)
-  Jing-Photos is based on Koko, a beautifully designed photos that conforms to the JingOS style and has a compatible pad / desktop experience.
+Jing-Photos berbasis pada Koko, aplikasi *Photos* di desain dengan indah sesuai dengan gaya JingOS dan memiliki pengalaman pad / desktop yang kompatibel.
   
   [JingApps-Kalk](https://github.com/JingOS-team/jing-kalk)
-  Jing-Kalk is based on Kalk. Jing-Kalk is a beautifully designed calculator that conforms to the JingOS style and Integrating the interactive experience of pad and PC.
+Jing-Kalk berbasis pada Kalk. Jing-Kalk di desain dengan indah yang sesuai dengan gaya JingOS dan mengintegrasikan pengalaman interaktif pad dan PC.
   
   [JingApps-Haruna Video Player](https://github.com/JingOS-team/jing-haruna)
-  Jing-Haruna is an open source video player built with Qt/QML on top of libmpv.
+  Jing-Haruna adalah pemutar video *open source* dibangun dengan Qt/QML diatas libmpv.
 
   [JingApps-KRecorder](https://github.com/JingOS-team/jing-krecorder)
-  Jing-KRecorder is based on KRecorder, a beautifully designed jing-krecorder that conforms to the JingOS style and has a compatible pad / desktop experience.
+Jing-KRecorder berbasis pada KRecorder, Jing-KRecorder di desain dengan indah yang sesuai dengan gaya JingOS dan memiliki pengalaman pad / desktop yang kompatibel.
 
   [JingApps-KClock](https://github.com/JingOS-team/jing-kclock)
-  Jing-KClock is based on KClock, a beautifully designed clock that conforms to the JingOS style and has a compatible pad / desktop experience.
+Jing-KClock berbasis pada KClock, aplikasi jam yang di desain dengan indah yang sesuai dengan gaya JingOS dan memiliki pengalaman pad / desktop yang kompatibel.
 
   [JingApps-Media-Player](https://github.com/JingOS-team/jing-media-player)
-  Jing-Media-Player is based on vvave, Support the scan and display of audio and video files that conforms to the JingOS style and has a compatible pad / desktop experience.
+Jing-Media-Player berbasis pada vvave, mendukung *scan* dan menampilkan fail audio dan video yang sesuai dengan gaya JingOS dan memiliki pengalaman pad / desktop yang kompatibel.
 
 ### Mobile First, Well Designed
 ![](https://en-cdn.jingos.com/wp-content/uploads/2021/01/%E6%9C%AA%E6%A0%87%E9%A2%98-4.gif)
 
-● iPadOS-like UI and UX
+● UI dan UX yang mirip dengan iPadOS
 
-● Multi-Touch gestures supported
+● Mendukung gestur *Multi-Touch*
 
-● Beautifully designed icons and animations
+● Ikon dan animasi yang di desain dengan indah
 
-● Compatible with Surface Pro 6, Huawei Matebook 14…
+● Kompatibel dengan Surface Pro 6, Huawei Matebook 14...
 
-### JingOS Native Apps
+### Aplikasi Asli JingOS
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=583&iH=390&oX=0&oY=3&cW=583&cH=384/-19-1.png)
 
-JingOS comes with several basic mobile Linux apps, including Calendar, Timer, Files, Media Player, and Calculator.
+JingOS datang dengan beberapa aplikasi dasar mobile Linux, termasuk Calendar, Timer, Files, Media Player, dan Calculator.
 
-### Full-Function Linux That Can Run Desktop Apps
+### Linux yang Dapat Menjalankan Aplikasi Desktop
 ![](https://en-cdn.jingos.com/wp-content/uploads/2020/12/donghua1229-3.gif)
 
-JingOS is a full-functional Linux based on Ubuntu. It can run desktop Linux apps like VS Code, LibreOffice, etc. JingOS is a productive OS designed specifically for tablets.
+JingOS adalah Linux fungsi-penuh yang berbasis pada Ubuntu. Dapat menjalankan aplikasi desktop Linux seperti VS Code, LiberOffice, dan lain-lain. JingOS adalah OS produktif di desain khusus untuk tablet.
 
-### Support Trackpad Gestures
+### Mendukung Gestur Trackpad
 ![](https://en-cdn.jingos.com/wp-content/uploads/2021/01/05-2.gif)
 
-JingOS optimize the gestures for your trackpad too. You can use trackpad gestures similar to screen gestures. That makes you a better experience when you are using your device in laptop mode.
+JingOS mengoptimalisasi gestur untuk trackpad Anda juga. Anda dapat menggunakan gestur trackpad yang mirip dengan gestur layar. Gestur ini membuat Anda memiliki pengalaman lebih baik saat Anda menggunakan perangkat dalam mode laptop.
 
 
-## About us
-  JingOS is a product of Jingling Tech. Jing/鲸 means Whale, and Ling/鲮 means Dace Fish in Chinese. The logo of JingLing is two fishes together which means a small ecosystem.
+## Tentang kami
+JingOS adalah produk dari Jingling Tech. Jing/鲸 berarti Paus, dan Ling/鲮 berarti Ikan Dace dalam Mandarin. Logo JingLing adalah dua ikan bersama yang berarti ekosistem kecil.
 
-  We have a team of very experienced Linux experts who had previously worked at Lenovo, Alibaba, Samsung, Canonical/Ubuntu, Trolltech and other famous IT Companies.
+Kami memiliki tim yang sangat berpengalaman dalam Linux yang sebelumnya bekerja di Lenovo, Alibaba, Samsung, Canonical/Ubuntu, Trolltech, dan perusahaan IT terkenal lainnya.
 
-  We are based in Beijing and California.
+Kami berbasis di Beijing dan California.
 
 ## FAQ
 
-  Is JingOS going to be opensource? And free software?
+ Apakah JingOS akan menjadi *open source*? dan software gratis?
 
-  > Yes, JingOS will open-source step by step. We will update the Github project every half year. And JingOS will be free forever.
+  > Ya, JingOS akan menjadi *open source* perlahan. Kami akan memperbaharui Github project setiap setengah tahun. Dan JingOS akan gratis selamanya.
 
-  What is JingOS based on?
+  Apa basis dari JingOS? 
 
-  > JingOS is based on Ubuntu 20.04, KDE v5.75, Plasma Mobile 5.20. We will replace the framework from Plasma Mobile to JDE (Jing Desktop Environment) later this year.
+  > JingOS berbasis pada Ubuntu 20.04, KDE v5.75, dan Plasma Mobile 5.20. Kami akan mengganti *framework* dari Plasma Mobile ke JDE ( Jing Desktop Environtment ) akhir tahun ini.
 
-  What’s the roadmap of JingOS?
+  Apa roadmap dari JingOS? 
 
-  > I posted about Roadmap v1.0 of JingOS 90 in January. I will update the roadmap every quarter.
+  > Kami mengunggah Roadmap v1.0 dari JingOS 90 pada bulan Januari. Kami akan memperbaharui roadmap setiap tiga bulan.
 
-  If JingOS is a tablet OS, does it require apps to respect the life cycle, like what happens when suspended? How does it manage permission? Is there a permission system like iOS? Are the apps sandboxed? If it can just run Linux apps, how would they respect life cycle, permission, and stuff? Will you use snap/flatpak for the permissions system?
+ Jika JingOS adalah OS tablet, apakah memerlukan aplikasi yang mendukung *life cycle*, seperti apa yang akan terjadi jika ditangguhkan? bagaimana cara mengatur perizinan seperti iOS? Apakah aplikasi ter-sandbox? Jika dapat menjalankan aplikasi Linux, bagaimana aplikasi tersebut mendukung *life cycle*, peizinan, dan lainnya? Apakah Anda akan menggunakan snap/flatpak untuk sistem perizinan?
 
-  > Life-cycle management API will come with JingOS v0.8 in March, apps designed for JingOS can be suspended like any other tablet OSs. The permission system and app sandbox are still in discussion, not decided yet.
+  > *Life-cycle management API* akan datang dengan JingOS v0.8 pada bulan Maret, aplikasi yang di desain untuk JingOS bisa ditangguhkan seperti OS tablet lain. Sistem perizinan dan aplikasi sandbox masih dalam diskusi, belum diputuskan.
 
-  Compared to other Linux distros, is JingOS optimized for tablet only in the UI / specialized apps, or are there performance tweaks/features as well. Is it basically like a gnome / KDE but with a tablet first focussed, or are there any “lower-level” differences? What kind of lower-level differences? Drivers? Performance enhancements? What will it help Linux do on tablets especially?
+  Dibandingkan dengan distro Linux lain, apakah JingOS dioptimalkan untuk tablet hanya di UI / aplikasi khusus, atau apakah ada *tweak* performa / fitur ? Apakah seperti gnome / KDE secara dasar tapi lebih fokus pada tablet atau apakah ada perbedaan pada *lower-level*? Driver? Peningkatan performa? Apakah hal yang akan membantu Linux pada tablet khususnya? 
 
-  > JingOS v0.6 is mostly optimized only in the UI and specialized apps. But JingOS v0.8 would have lots of lower differences, like performance enhancements.
+  > JingOS v0.6 kebanyakan dioptimalkan di UI dan aplikasi khusus. Tetapi JingOS v0.8 memiliki lebih banyak perbedaan yang lebih rendah, seperti peningkatan performa.
 
-  Do apps have to be created for JingOS to work well? Could I use Spotify or Discord apps on it, or would there need to be JingOS versions first? JingOS just run normal Linux apps, right? So we should be able to build and run Flutter desktop apps on it? Will JingOS support android apps? To fill the gap with missing popular apps.
+  Apakah aplikasi harus dibuat khusus untuk JingOS agar bekerja dengan baik? Apakah saya bisa memakai Spotify atau Discord di dalamnya, atau apakah harus ada versi untuk JingOS terlebih dahulu? JingOS bisa menjalankan aplikasi Linux normal, kan? Jadi kita harus bisa membangun dan menjalankan aplikasi desktop Flutter di atasnya? Apakah JingOS mendukung aplikasi Android? Untuk mengisi kekosongan aplikasi populer.
 
-  > Linux apps (.deb, etc.) can run in JingOS well. You can run Android apps in the JingOS ARM version after v1.0 in June.
+  > Aplikasi Linux (.deb, dll) dapat berjalan di JingOS dengan baik. Anda dapat menjalankan aplikasi Android pada JingOS versi ARM pada v1.0 bulan Juni.
 
 ## Roadmap
-  * JingOS v0.6: will be released on Jan 31, 2021. Has been tested on Surface Pro 6, Huawei Matebook 14. This is a preview version of JingOS. You can have the control panel and notification center on your Linux tablets just like the iPads! You can check the preview video of the JingOS v0.6 here 302.
+  * JingOS v0.6: akan dirilis pada 31 Januari 2021. Telah dites pada Surface Pro 6, Huawei Matebook 14. Ini adalah versi *preview* dari JingOS. Anda dapat kontrol panel dan pusat notifikasi di tablet Linux seperti iPad! Anda bisa melihat video *preview* JingOS v0.6 disini 302.
 
-  * JingOS v0.8: will be released on Mar 31, 2021. Huge updates will be available, including the JingOS App Store, Settings, File Managers, etc. And a whole new virtual keyboard designed for Linux will be available too. OTA will be functional since v0.8. Several other devices will be tested for JingOS v0.8 besides SP6 and HM14 mentioned above.
+  * JingOS v0.8: akan dirilis pada 31 Maret 2021. Peningkatan besar akan tersedia, termasuk JingOS App Store, Pengaturan, Manajer Fail, dll. Dan virtual keyboard baru di desain untuk Linux akan tersedia juga. OTA akan berfungsi sejak v0.8. Beberapa perangkat lain akan dites untuk JingOS v0.8 selain SP6 dan HM14 yang telah di sebutkan diatas.
 
-  * JingOS v1.0: will be released on Jun 30, 2021. Start supporting the JingPad C1, which is an ARM-based device.
+  * Jing OS v1.0: akan dirilis pada 30 Juni 2021. Mulai mendukung JingPad C1, yang mana adalah perangkat berbasis ARM.
 
-  #### We will release updates every month after June.
+  #### Kami akan merilis pembaharuan setiap bulan setelah bulan Juni
 
-  ### About open sourcing:
+  ### Tentang *open source*:
 
-  > JingOS is based on Ubuntu 20.04, KDE v5.75, Plasma Mobile 5.20. We will replace the framework from Plasma Mobile to JDE (Jing Desktop Environment) later this year.
+  > JingOS is based on Ubuntu 20.04, KDE v5.75, Plasma Mobile 5.20. We will replace the framework from Plasma Mobile to JDE (Jing Desktop Environment) later this year. | JingOS berbasis pada Ubuntu 20.04, KDE v5.75, Plasma Mobile 5.20. Kami akan mengganti framework dari Plasma Mobile ke JDE (Jing Desktop Environtment) pada akhir tahun ini. 
 
 
 ## Press
 
-### English
+### Bahasa Inggris
 * 2021/1/16	First Look: Meet the New Linux Distro Inspired by the iPad	https://www.omgubuntu.co.uk/2021/01/jingos-linux-distro-for-tablets-like-ipados	
 * 2021/1/17	JingOS: Linux Distro Inspired by the iPad (jingos.com)	https://news.ycombinator.com/item?id=25807792	
 * 2021/1/17	JingOS: from China the first Linux distro that simulates iPad OS, including mouse	https://www.aroged.com/2021/01/17/jingos-from-china-the-first-linux-distro-that-simulates-ipad-os-including-mouse/
@@ -130,7 +130,7 @@ JingOS optimize the gestures for your trackpad too. You can use trackpad gesture
 * 2021/1/31	JingOS, the Linux Tablet Distro, Releases First Alpha Build	JingOS, the Linux Tablet Distro, Releases First Alpha Build https://www.omgubuntu.co.uk/2021/01/download-jingos-linux-tablet-alpha-release
 * 2021/2/1	JINGOS, DISTRO LINUX PER TABLET: DISPONIBILE LA PRIMA BUILD	" https://www.lffl.org/2021/02/jingos-linux-tablet-prima-build.html"
 
-### Chinese
+### Bahasa Mandarin
 * 2021/1/11	可运行全功能Linux，专为平板设计的JingOS系统来了	https://www.sohu.com/a/443936628_120873246
 * 2021/1/14	JingOS-全球首个iPadOS风格，专为平板打造的Linux	https://baijiahao.baidu.com/s?id=1688856306766562299&wfr=spider&for=pc
 * 2021/1/19	基于 Linux 的平板 OS 发布，支持华为 Matebook 14 等设备	https://www.oschina.net/news/127042/ipad-style-linux-released
@@ -148,7 +148,7 @@ JingOS optimize the gestures for your trackpad too. You can use trackpad gesture
 * 2021/1/29	JingOS Linux平板系统v0.6下载发布 支持多点触摸手势	http://soft.hqbpc.com/html/2021/01/5157.html
 * 2021/2/2	为平板设计的Linux系统——JingOS发布	https://www.163.com/dy/article/G1QBNNCC05421RIN.html
 
-### Other Press
+### Press lain
 * 2021/1/16	JingOS to Linux, który wygląda i działa jak iPadOS!	https://rootblog.pl/jingos-ipados-linux/	Polish
 * 2021/1/18	JingOS é um Linux com aspecto de iPad	https://abertoatedemadrugada.com/2021/01/jingos-e-um-linux-com-aspecto-de-ipad.html	Português
 * 2021/1/18	JingOS, une distribution Linux inspirée d’iPadOS pour les PC avec écran tactile	https://www.macg.co/ailleurs/2021/01/jingos-une-distribution-linux-basee-sur-ipados-pour-les-pc-avec-ecran-tactile-119109	French
@@ -161,7 +161,7 @@ JingOS optimize the gestures for your trackpad too. You can use trackpad gesture
 * 2021/1/20	iPadOSを参考に開発されたLinuxディストリビューション「JingOS」が登場	https://iphone-mania.jp/news-341789/	Japanese
 * 2021/2/2	ingOS lanza su primera ISO… pero tendrás que esperar si quieres probarla	https://www.linuxadictos.com/jingos-lanza-su-primera-iso-pero-tendras-que-esperar-si-quieres-probarla.html   Español"  
 
-## Contact us
+## Hubungi kami
 
 Email: lcc@jingos.com
 
