@@ -31,3 +31,15 @@
 [submodule "framework/jing-plasma-workspace"]
 	path = framework/jing-plasma-workspace
 	url = https://github.com/JingOS-team/jing-plasma-workspace
+[submodule "apps/jing-appstore"]
+	path = apps/jing-appstore
+	url = https://github.com/JingOS-team/jing-appstore
+[submodule "apps/jing-filemanager"]
+	path = apps/jing-filemanager
+	url = https://github.com/JingOS-team/jing-filemanager
+[submodule "apps/jing-settings"]
+	path = apps/jing-settings
+	url = https://github.com/JingOS-team/jing-settings
+[submodule "apps/jing-nm"]
+	path = apps/jing-nm
+	url = https://github.com/JingOS-team/jing-nm
