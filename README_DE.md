@@ -54,17 +54,12 @@ Im Tabletmodus können Sie mit den mobilen Apps in JingOS Filme ansehen, Bücher
 Schließen Sie eine Tastatur und ein Trackpad/eine Maus an den Desktopmodus an, um produktiv zu arbeiten; Sie können Dokumente schreiben und sogar programmieren...
 
 ### Mobile First, gut designed
-![](https://en-cdn.jingos.com/wp-content/uploads/2021/01/%E6%9C%AA%E6%A0%87%E9%A2%98-4.gif)
+![](https://en-cdn.jingos.com/wp-content/uploads/brizy/3730/assets/images/iW=2212&iH=1552&oX=0&oY=0&cW=2212&cH=1552/os-4@2x.jpg)
 
 JingOS ist als Tabletbetriebssystem für mobile Geräte konzipiert.
 Es kommt mit wunderschön gestalteten Symbolen und Animationseffekten.
 Es ist das schönste mobile Linux überhaupt!
 JingOS unterstützt sogar Multitouch-Gesten, was für moderne Tablets sehr wichtig ist.
-
-### JingOS Native Apps
-![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=583&iH=390&oX=0&oY=3&cW=583&cH=384/-19-1.png)
-
-JingOS wird mit mehreren grundlegenden mobilen Linux-Apps geliefert, darunter Kalender, Timer, Dateien, Media Player und Taschenrechner.
 
 ### JingOS unterstützt Linuxanwendungen und Androidapps
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/3730/assets/images/iW=2280&iH=820&oX=0&oY=0&cW=2280&cH=820/a1-10@2x.jpg)
