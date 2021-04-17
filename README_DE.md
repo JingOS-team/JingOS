@@ -1,10 +1,16 @@
 # JingOS
 ### Das weltweit erste Linux-basierte Betriebssystem für Tablets 
+
+JingOS ist ein 'konvergentes' Linux-basiertes Open-Source-Mobilbetriebssystem
+für Tablets und mobile Geräte.
+Es kann Linux-Apps und Android-Apps ausführen.
+Es ist angepasst, um intuitiv mit Touch, Stift, Tastatur und Trackpad zu arbeiten.
+
 [JingPad A1](https://en.jingos.com/jingpad-a1/) - Das weltweit ERSTE Linux-Tablet für Verbraucher.
 
 [Unsere Video-Einführung](https://www.youtube.com/watch?v=3E0ADUIiFzA)
 
-[Download JingOS V0.6](https://forum.jingos.com/t/jingos-v0-6-release/514)
+[Download JingOS V0.8.1](https://hk.mikecrm.com/N0wgIm4)
 
 [Mailingliste beitreten](http://hk.mikecrm.com/pg5E05S) | 
 [Telegram beitreten](https://t.me/JingOS_Linux) | 
@@ -40,32 +46,40 @@
   [JingApps-Media-Player](https://github.com/JingOS-team/jing-media-player)
   Jing-Media-Player basiert auf vvave, unterstützt das Scannen und Anzeigen von Audio- und Videodateien, die dem JingOS-Stil entsprechen und ein kompatibles Pad/Desktop-Erlebnis bietet.
 
+### Mobile & Desktop Benutzung verschmelzen miteinander
+![](https://en-cdn.jingos.com/wp-content/uploads/brizy/3730/assets/images/iW=2006&iH=1254&oX=0&oY=0&cW=2006&cH=1254/os-2@2x.jpg)
+
+JingOS ist nicht nur ein Tablet OS, sondern auch ein Desktop OS.
+Im Tabletmodus können Sie mit den mobilen Apps in JingOS Filme ansehen, Bücher lesen, Spiele spielen...
+Schließen Sie eine Tastatur und ein Trackpad/eine Maus an den Desktopmodus an, um produktiv zu arbeiten; Sie können Dokumente schreiben und sogar programmieren...
+
 ### Mobile First, gut designed
 ![](https://en-cdn.jingos.com/wp-content/uploads/2021/01/%E6%9C%AA%E6%A0%87%E9%A2%98-4.gif)
 
-● PadOS-ähnliche UI und UX
-
-● Unterstützung von Multi-Touch-Gesten
-
-● wunderschön gestaltete Symbole und Animationen
-
-● Kompatibel mit Surface Pro 6, Huawei Matebook 14…
+JingOS ist als Tabletbetriebssystem für mobile Geräte konzipiert.
+Es kommt mit wunderschön gestalteten Symbolen und Animationseffekten.
+Es ist das schönste mobile Linux überhaupt!
+JingOS unterstützt sogar Multitouch-Gesten, was für moderne Tablets sehr wichtig ist.
 
 ### JingOS Native Apps
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=583&iH=390&oX=0&oY=3&cW=583&cH=384/-19-1.png)
 
 JingOS wird mit mehreren grundlegenden mobilen Linux-Apps geliefert, darunter Kalender, Timer, Dateien, Media Player und Taschenrechner.
 
-### Voll funktionsfähiges Linux, welches Desktopanwendungen ausführen kann 
-![](https://en-cdn.jingos.com/wp-content/uploads/2020/12/donghua1229-3.gif)
+### JingOS unterstützt Linuxanwendungen und Androidapps
+![](https://en-cdn.jingos.com/wp-content/uploads/brizy/3730/assets/images/iW=2280&iH=820&oX=0&oY=0&cW=2280&cH=820/a1-10@2x.jpg)
 
-JingOS ist ein voll funktionsfähiges Linux auf Basis von Ubuntu. Es kann Linux Desktopanwendungen wie VS Code, LibreOffice usw. ausführen. JingOS ist ein produktives Betriebssystem, das speziell für Tablets entwickelt wurde.
+Wir verbinden Linux- und Androidanwendungen durch Technologie, was JingOS zu einem ´Konvergenz´ Linuxbetriebssystem macht.
+Sie können Linux-Desktopanwendungen für die Produktivität und Androidapps für die Unterhaltung nutzen.
+Mehr und mehr Apps kommen in unseren AppStore.
+*Native Unterstützung von Android-Apps nur für ARM-basierte Geräte verfügbar.
 
-### Unterstützung von Trackpadgesten
+### Unterstützung von Trackpadgesten und Tastatur
 ![](https://en-cdn.jingos.com/wp-content/uploads/2021/01/05-2.gif)
 
-JingOS optimiert die Gesten auch für Ihr Trackpad. Sie können Trackpadgesten ähnlich wie Bildschirmgesten verwenden. Das bietet Ihnen ein besseres Erlebnis, wenn Sie Ihr Gerät im Laptopmodus verwenden.
-
+JingOS hat die Gesten auch für Ihr Trackpad optimiert.
+Sie können Trackpadgesten ähnlich wie die Bildschirmgesten verwenden.
+Dies ermöglicht Ihnen ein besseres Erlebnis, wenn Sie Ihr Gerät im Laptopmodus verwenden.
 
 ## Über uns
   JingOS ist ein Produkt von Jingling Tech. Jing/鲸 bedeutet "Wal" und Ling/鲮 bedeutet "Krebs" auf Chinesisch. Das Logo von JingLing sind zwei Fische zusammen, was ein kleines Ökosystem darstellt.
