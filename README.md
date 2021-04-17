@@ -1,10 +1,16 @@
 # JingOS
 ### The World’s First Linux-based OS designed for Tablets
+
+JingOS is a 'convergence' Linux-Based Open-Source mobile OS 
+for tablets and mobile devices.
+It can run Linux apps and Android apps.
+It is adapted to run naturally with touch, pencil, keyboard and trackpad.
+
 [JingPad A1](https://en.jingos.com/jingpad-a1/) - It is the World’s FIRST Consumer-level Linux Tablet.
 
 [Our video introduction](https://www.youtube.com/watch?v=3E0ADUIiFzA)
 
-[Download JingOS V0.6](https://forum.jingos.com/t/jingos-v0-6-release/514)
+[Download JingOS V0.8.1](https://hk.mikecrm.com/N0wgIm4)
 
 [Join our mailing list](http://hk.mikecrm.com/pg5E05S) | 
 [Join our Telegram](https://t.me/JingOS_Linux) | 
@@ -40,31 +46,35 @@
   [JingApps-Media-Player](https://github.com/JingOS-team/jing-media-player)
   Jing-Media-Player is based on vvave, Support the scan and display of audio and video files that conforms to the JingOS style and has a compatible pad / desktop experience.
 
+### Mobile & Desktop Experience Merge Together
+![](https://en-cdn.jingos.com/wp-content/uploads/brizy/3730/assets/images/iW=2006&iH=1254&oX=0&oY=0&cW=2006&cH=1254/os-2@2x.jpg)
+
+JingOS is not only a tablet OS, but also a desktop OS.
+In tablet mode, you can watch movies, read books, play games using the mobile apps in JingOS...
+Connect a keyboard and a trackpad/mouse to desktop mode for productivity; you can write documents, and even do coding...
+
 ### Mobile First, Well Designed
-![](https://en-cdn.jingos.com/wp-content/uploads/2021/01/%E6%9C%AA%E6%A0%87%E9%A2%98-4.gif)
+![](https://en-cdn.jingos.com/wp-content/uploads/brizy/3730/assets/images/iW=2212&iH=1552&oX=0&oY=0&cW=2212&cH=1552/os-4@2x.jpg)
 
-● iPadOS-like UI and UX
+JingOS is designed to be a mobile-first tablet OS.
+It comes with a lot of beautifully designed icons and animation effects.
+It is the most beautiful mobile Linux ever!
+JingOS even supports multitouch gestures, which is very important for modern tablets.
 
-● Multi-Touch gestures supported
+### JingOS Support Linux Apps and Android Apps
+![](https://en-cdn.jingos.com/wp-content/uploads/brizy/3730/assets/images/iW=2280&iH=820&oX=0&oY=0&cW=2280&cH=820/a1-10@2x.jpg)
 
-● Beautifully designed icons and animations
+We connect Linux and Android apps through technology, making JingOS a ‘convergence’ Linux OS.
+You can use Linux desktop apps for productivity, and use Android apps for entertainment.
+More and more apps are coming to our AppStore.
+*Android apps native support only available for ARM-based devices
 
-● Compatible with Surface Pro 6, Huawei Matebook 14…
-
-### JingOS Native Apps
-![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=583&iH=390&oX=0&oY=3&cW=583&cH=384/-19-1.png)
-
-JingOS comes with several basic mobile Linux apps, including Calendar, Timer, Files, Media Player, and Calculator.
-
-### Full-Function Linux That Can Run Desktop Apps
-![](https://en-cdn.jingos.com/wp-content/uploads/2020/12/donghua1229-3.gif)
-
-JingOS is a full-functional Linux based on Ubuntu. It can run desktop Linux apps like VS Code, LibreOffice, etc. JingOS is a productive OS designed specifically for tablets.
-
-### Support Trackpad Gestures
+### Support Trackpad Gestures and Keyboard
 ![](https://en-cdn.jingos.com/wp-content/uploads/2021/01/05-2.gif)
 
-JingOS optimize the gestures for your trackpad too. You can use trackpad gestures similar to screen gestures. That makes you a better experience when you are using your device in laptop mode.
+JingOS optimized the gestures for your trackpad too.
+You can use trackpad gestures similar to the screen gestures.
+This makes you a better experience when you are using your device in laptop mode.
 
 
 ## About us
