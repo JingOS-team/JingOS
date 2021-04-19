@@ -54,12 +54,12 @@ Jing-Media-Player berbasis pada vvave, mendukung *scan* dan menampilkan fail aud
 ### Aplikasi Asli JingOS
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=583&iH=390&oX=0&oY=3&cW=583&cH=384/-19-1.png)
 
-JingOS datang dengan beberapa aplikasi dasar mobile Linux, termasuk Calendar, Timer, Files, Media Player, dan Calculator.
+JingOS datang dengan beberapa aplikasi dasar Linux mobile, termasuk Calendar, Timer, Files, Media Player, dan Calculator.
 
 ### Linux yang Dapat Menjalankan Aplikasi Desktop
 ![](https://en-cdn.jingos.com/wp-content/uploads/2020/12/donghua1229-3.gif)
 
-JingOS adalah Linux fungsi-penuh yang berbasis pada Ubuntu. Dapat menjalankan aplikasi desktop Linux seperti VS Code, LiberOffice, dan lain-lain. JingOS adalah OS produktif di desain khusus untuk tablet.
+JingOS adalah Linux fungsi-penuh yang berbasis pada Ubuntu. Dapat menjalankan aplikasi desktop Linux seperti VS Code, LiberOffice, dan lain-lain. JingOS adalah OS produktif yang di desain khusus untuk tablet.
 
 ### Mendukung Gestur Trackpad
 ![](https://en-cdn.jingos.com/wp-content/uploads/2021/01/05-2.gif)
@@ -88,7 +88,7 @@ Kami berbasis di Beijing dan California.
 
   > Kami mengunggah Roadmap v1.0 dari JingOS 90 pada bulan Januari. Kami akan memperbaharui roadmap setiap tiga bulan.
 
- Jika JingOS adalah OS tablet, apakah memerlukan aplikasi yang mendukung *life cycle*, seperti apa yang akan terjadi jika ditangguhkan? bagaimana cara mengatur perizinan seperti iOS? Apakah aplikasi ter-sandbox? Jika dapat menjalankan aplikasi Linux, bagaimana aplikasi tersebut mendukung *life cycle*, peizinan, dan lainnya? Apakah Anda akan menggunakan snap/flatpak untuk sistem perizinan?
+ Jika JingOS adalah OS tablet, apakah memerlukan aplikasi yang mendukung *life cycle*, seperti apa yang akan terjadi jika ditangguhkan? bagaimana cara mengatur perizinan seperti iOS? Apakah aplikasi ter-sandbox? Jika dapat menjalankan aplikasi Linux, bagaimana aplikasi tersebut mendukung *life cycle*, perizinan, dan lainnya? Apakah Anda akan menggunakan snap/flatpak untuk sistem perizinan?
 
   > *Life-cycle management API* akan datang dengan JingOS v0.8 pada bulan Maret, aplikasi yang di desain untuk JingOS bisa ditangguhkan seperti OS tablet lain. Sistem perizinan dan aplikasi sandbox masih dalam diskusi, belum diputuskan.
 
@@ -101,7 +101,7 @@ Kami berbasis di Beijing dan California.
   > Aplikasi Linux (.deb, dll) dapat berjalan di JingOS dengan baik. Anda dapat menjalankan aplikasi Android pada JingOS versi ARM pada v1.0 bulan Juni.
 
 ## Roadmap
-  * JingOS v0.6: akan dirilis pada 31 Januari 2021. Telah dites pada Surface Pro 6, Huawei Matebook 14. Ini adalah versi *preview* dari JingOS. Anda dapat kontrol panel dan pusat notifikasi di tablet Linux seperti iPad! Anda bisa melihat video *preview* JingOS v0.6 disini 302.
+  * JingOS v0.6: akan dirilis pada 31 Januari 2021. Telah dites pada Surface Pro 6, Huawei Matebook 14. Ini adalah versi *preview* dari JingOS. Anda akan mendapatkan kontrol panel dan pusat notifikasi di tablet Linux seperti iPad! Anda bisa melihat video *preview* JingOS v0.6 disini 302.
 
   * JingOS v0.8: akan dirilis pada 31 Maret 2021. Peningkatan besar akan tersedia, termasuk JingOS App Store, Pengaturan, Manajer Fail, dll. Dan virtual keyboard baru di desain untuk Linux akan tersedia juga. OTA akan berfungsi sejak v0.8. Beberapa perangkat lain akan dites untuk JingOS v0.8 selain SP6 dan HM14 yang telah di sebutkan diatas.
 
