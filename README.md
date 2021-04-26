@@ -88,7 +88,7 @@ This makes you a better experience when you are using your device in laptop mode
 
   Is JingOS going to be opensource? And free software?
 
-  > Yes, JingOS will open-source step by step. We will update the Github project every half year. And JingOS will be free forever.
+  > Yes, JingOS has been opensourced on Github. And JingOS will be free forever.
 
   What is JingOS based on?
 
