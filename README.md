@@ -6,14 +6,14 @@ for tablets and mobile devices.
 It can run Linux apps and Android apps.
 It is adapted to run naturally with touch, pencil, keyboard and trackpad.
 
+[Download JingOS V0.8.1](https://hk.mikecrm.com/N0wgIm4)
+
 [JingPad A1](https://en.jingos.com/jingpad-a1/) - It is the World’s FIRST Consumer-level Linux Tablet.
 
 [INDIEGOGO Crowdfunding](https://www.indiegogo.com/projects/jingpad-world-s-first-linux-based-tablet/coming_soon/x/26085983)
 
 [JingPad video introduction](https://www.youtube.com/watch?v=rZugAfhWkPA)
 [JingOS video introduction](https://www.youtube.com/watch?v=3E0ADUIiFzA)
-
-[Download JingOS V0.8.1](https://hk.mikecrm.com/N0wgIm4)
 
 [Join our mailing list](http://hk.mikecrm.com/pg5E05S) | 
 [Join our Telegram](https://t.me/JingOS_Linux) | 
