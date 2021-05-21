@@ -118,7 +118,9 @@ This makes you a better experience when you are using your device in laptop mode
 
   * JingOS v0.8: will be released on Mar 31, 2021. Huge updates will be available, including the JingOS App Store, Settings, File Managers, etc. And a whole new virtual keyboard designed for Linux will be available too. OTA will be functional since v0.8. Several other devices will be tested for JingOS v0.8 besides SP6 and HM14 mentioned above.
 
-  * JingOS v1.0: will be released on Jun 30, 2021. Start supporting the JingPad C1, which is an ARM-based device.
+  * JingOS v0.9: will be released on May 31, 2021.
+
+  * JingOS v1.0: will be released on Jun 30, 2021. Start supporting the JingPad A1, which is an ARM-based device.
 
   #### We will release updates every month after June.
 
