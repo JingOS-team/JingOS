@@ -97,9 +97,6 @@ This makes you a better experience when you are using your device in laptop mode
 
   > JingOS is based on Ubuntu 20.04, KDE v5.75, Plasma Mobile 5.20. We will replace the framework from Plasma Mobile to JDE (Jing Desktop Environment) later this year.
 
-  What’s the roadmap of JingOS?
-
-  > I posted about Roadmap v1.0 of JingOS 90 in January. I will update the roadmap every quarter.
 
   If JingOS is a tablet OS, does it require apps to respect the life cycle, like what happens when suspended? How does it manage permission? Is there a permission system like iOS? Are the apps sandboxed? If it can just run Linux apps, how would they respect life cycle, permission, and stuff? Will you use snap/flatpak for the permissions system?
 
