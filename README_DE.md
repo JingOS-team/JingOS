@@ -1,10 +1,9 @@
 # JingOS
 ### Das weltweit erste Linux-basierte Betriebssystem für Tablets 
 
-JingOS ist ein 'konvergentes' Linux-basiertes Open-Source-Mobilbetriebssystem
+JingOS ist ein 'konvertibles' Linux-basiertes Open-Source-Mobilbetriebssystem
 für Tablets und mobile Geräte.
-Es kann Linux-Apps und Android-Apps ausführen.
-Es ist angepasst, um intuitiv mit Touch, Stift, Tastatur und Trackpad zu arbeiten.
+Es kann nativ Linux und Android-Apps ausführen und ist angepasst, um intuitiv mit Touch, Stift, Tastatur und Trackpad bedient zu werden.
 
 [JingPad A1](https://en.jingos.com/jingpad-a1/) - Das weltweit ERSTE Linux-Tablet für Verbraucher.
 
@@ -20,10 +19,10 @@ Es ist angepasst, um intuitiv mit Touch, Stift, Tastatur und Trackpad zu arbeite
 
 ## Unser Opensourceprojekt 
   [JingCore-WindowManger](https://github.com/JingOS-team/jing-kwin)
-  JingCore-WindowManger basiert auf KDE Kwin, das zur Verwaltung der Anwendungsfenster verwendet wird, und JingOS fügt weitere Gesten und andere Funktionen hinzu, die speziell für Tablets entwickelt wurden.
+  JingCore-WindowManger basiert auf KDE Kwin, welches zur Verwaltung von Anwendungsfenstern verwendet wird, und JingOS zudem verschiedenen Gesten und andere Funktionen hinzu fügt, die speziell für Tablets entwickelt wurden.
 
   [JingCore-CommonComponents](https://github.com/JingOS-team/jing-kirigami)
-  JingCore-CommonComponents basiert auf KDE Kirigami, und fügt weitere Komponenten hinzu, die speziell für das Tablet Betriebssystem entwickelt wurden.
+  JingCore-CommonComponents basiert auf KDE Kirigami und fügt weitere Komponenten hinzu, die speziell für das Tablet Betriebssystem entwickelt wurden.
   
   [JingSystemui-Launcher](https://github.com/JingOS-team/jing-plasma-phone-components)
   Dies ist der Launcher von JingOS, mit Home, Dock, Benachrichtigungen, Steuerungspanel, der auf KDE-Plasmaphon-Komponenten basiert.
