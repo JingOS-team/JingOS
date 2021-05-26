@@ -1,4 +1,4 @@
-[Download JingOS V0.8.1](https://hk.mikecrm.com/N0wgIm4)
+## [Download JingOS V0.8.1](https://hk.mikecrm.com/N0wgIm4)
 
 # JingOS
 ### The World’s First Linux-based OS designed for Tablets
