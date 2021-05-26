@@ -1,3 +1,5 @@
+## [Download JingOS V0.8.1](https://hk.mikecrm.com/N0wgIm4)
+
 # JingOS
 ### The World’s First Linux-based OS designed for Tablets
 
@@ -10,8 +12,7 @@ It is adapted to run naturally with touch, pencil, keyboard and trackpad.
 
 [Download JingOS V0.8.1](https://hk.mikecrm.com/N0wgIm4)
 
-[JingPad A1](https://en.jingos.com/jingpad-a1/) - It is the World’s FIRST
-Consumer-level Linux Tablet.
+[JingPad A1](https://en.jingos.com/jingpad-a1/) - It is the World’s FIRST Consumer-level Linux Tablet.
 
 [INDIEGOGO Crowdfunding](https://www.indiegogo.com/projects/jingpad-world-s-first-linux-based-tablet/coming_soon/x/26085983)
 
@@ -179,6 +180,9 @@ missing popular apps.
   virtual keyboard designed for Linux will be available too. OTA will be
   functional since v0.8. Several other devices will be tested for JingOS v0.8
   besides SP6 and HM14 mentioned above.
+  * JingOS v0.9: will be released on May 31, 2021.
+
+  * JingOS v1.0: will be released on Jun 30, 2021. Start supporting the JingPad A1, which is an ARM-based device.
 
 * JingOS v1.0: will be released on Jun 30, 2021. Start supporting the JingPad
   C1, which is an ARM-based device.
