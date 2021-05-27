@@ -1,7 +1,7 @@
 ## [Download JingOS V0.8.1](https://hk.mikecrm.com/N0wgIm4)
 
 # JingOS
-### The World’s First Linux-based OS designed for Tablets
+### A Linux-based OS designed for Tablets
 
 JingOS is a 'convergence' Linux-Based Open-Source mobile OS 
 for tablets and mobile devices.
