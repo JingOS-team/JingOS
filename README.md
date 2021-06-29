@@ -10,7 +10,7 @@ It can run Linux apps and Android apps.
 
 It is adapted to run naturally with touch, pencil, keyboard and trackpad.
 
-[Download JingOS V0.8.1](https://hk.mikecrm.com/N0wgIm4)
+[Download JingOS V0.9](https://jingos.feishu.cn/docs/doccnFhsqYIUT2ozejeOlfvMfsf)
 
 [JingPad A1](https://en.jingos.com/jingpad-a1/) - It is the World’s FIRST Consumer-level Linux Tablet.
 
@@ -20,8 +20,8 @@ It is adapted to run naturally with touch, pencil, keyboard and trackpad.
 [JingOS video introduction](https://www.youtube.com/watch?v=3E0ADUIiFzA)
 
 [Join our mailing list](http://hk.mikecrm.com/pg5E05S) | 
-[Join our Telegram](https://t.me/JingOS_Linux) | 
-[Join our Discord](https://discord.gg/xEwDGW7RnJ)
+[Join our Discord](https://discord.gg/xEwDGW7RnJ) |
+[Join our Telegram](https://t.me/JingOS_Linux) 
 
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
 
