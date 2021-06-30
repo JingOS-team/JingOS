@@ -26,7 +26,7 @@ It is created to allow natural control by touch, pencil, keyboard, and trackpad.
 
 ## Our Open-Source Project
 
-[JingCore-WindowManger](https://github.com/JingOS-team/jing-kwin)
+[JingCore-WindowManger](https://github.com/JingOS-team/jing-kwin)\
 JingCore-WindowManger is based on KDE Kwin, it is used to manage the application
 windows. More gestures and other functions that are specially
 designed for a Tablet OS are added.
