@@ -67,7 +67,7 @@ on both tablet and desktop devices.
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/3730/assets/images/iW=2006&iH=1254&oX=0&oY=0&cW=2006&cH=1254/os-2@2x.jpg)
 
 JingOS is not only a tablet OS, but also a desktop OS. In tablet mode, you can
-watch movies, read books, play games using the mobile apps in JingOS.\
+watch movies, read books, play games using the mobile apps in JingOS.
 For productivity you can connect
 a keyboard and a trackpad/mouse to switch to desktop mode. Then you can write
 documents, and even do coding.
@@ -77,10 +77,8 @@ documents, and even do coding.
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/3730/assets/images/iW=2212&iH=1552&oX=0&oY=0&cW=2212&cH=1552/os-4@2x.jpg)
 
 JingOS is designed to be a mobile-first tablet OS. It comes with a lot of
-beautifully designed icons and animation effects.
-
-It is the most beautiful mobile Linux ever!
-
+beautifully designed icons and animation effects.\
+It is the most beautiful mobile Linux ever!\
 JingOS even supports multi-touch gestures, which is very important for modern
 tablets.
 
@@ -89,34 +87,29 @@ tablets.
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/3730/assets/images/iW=2280&iH=820&oX=0&oY=0&cW=2280&cH=820/a1-10@2x.jpg)
 
 We connect Linux and Android apps through technology, making JingOS a
-‘convergence’ Linux OS.
-
+‘convergent’ Linux OS.\
 You can use Linux desktop apps for productivity, and use Android apps for
-entertainment.
-
+entertainment.\
 More and more apps are coming to our AppStore.
 
 *Android apps native support only available for ARM-based devices
 
-### Support for Trackpad Gestures and Keyboard
+### Support for Trackpad Gestures
 
 ![](https://en-cdn.jingos.com/wp-content/uploads/2021/01/05-2.gif)
 
-JingOS optimized the gestures for your trackpad too.
-
-You can use trackpad gestures similar to the screen gestures.
-
-This makes you a better experience when you are using your device in laptop mode.
+JingOS has also optimized gestures for the trackpad.\
+You can use trackpad gestures similar to the screen gestures.\
+This provides you a better experience when you are using your device in laptop mode.
 
 ## About us
 
-JingOS is a product of Jingling Tech. Jing/鲸 means Whale, and Ling/鲮 means
-Dace Fish in Chinese. The logo of JingLing is two fishes together which means a
-small ecosystem.
-
+JingOS is a product of Jingling Tech. Jing/鲸 means whale, and Ling/鲮 means
+dace fish in Chinese. The logo of Jingling consist of two intertwined fishes which stands for a
+small ecosystem.\
 We have a team of very experienced Linux experts who had previously worked at
 Lenovo, Alibaba, Samsung, Canonical/Ubuntu, Trolltech and other famous IT
-Companies.
+companies.
 
 We are based in Beijing and California.
 
@@ -168,18 +161,19 @@ missing popular apps.
 
 ## Roadmap
 
-* JingOS v0.6: will be released on Jan 31, 2021. Has been tested on Surface Pro
-  6, Huawei Matebook 14. This is a preview version of JingOS. You can have the
+* JingOS v0.6: was released on Jan 31, 2021. It has been tested on Surface Pro
+  6 and Huawei Matebook 14. It is a preview version of JingOS. You have the
   control panel and notification center on your Linux tablets just like the
-  iPads! You can check the preview video of the JingOS v0.6 here 302.
-
-* JingOS v0.8: will be released on Mar 31, 2021. Huge updates will be available,
-  including the JingOS App Store, Settings, File Managers, etc. And a whole new
-  virtual keyboard designed for Linux will be available too. OTA will be
-  functional since v0.8. Several other devices will be tested for JingOS v0.8
-  besides SP6 and HM14 mentioned above.
+  iPad! You can check the preview video of the JingOS v0.6 here 302.
   
-* JingOS v0.9: will be released on May 31, 2021.
+* JingOS v0.8: was released on Mar 31, 2021. It contains a huge amount of updates,
+  including the JingOS App Store, Settings, File Managers, etc. Also a totally new
+  virtual keyboard designed for Linux was added. With v0.8 comes OTA functionality. 
+  Several other devices were tested with JingOS v0.8.
+  
+* JingOS v0.9: was released on May 31, 2021. Support for different resolutions, setting wallpapers,
+  file (de)compression was added. The Notification Center and Control Panel were upgraded with the Gaussian blur effect. 
+  With v0.9 the password can be complex, i.e. contain. The mouse click accuracy was improved and several shortcuts were created.
 
 * JingOS v1.0: will be released on Jun 30, 2021. Start supporting the JingPad A1, which is an ARM-based device.
 
