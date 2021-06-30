@@ -11,14 +11,14 @@ Here are some other links:
 
 [JingPad A1](https://en.jingos.com/jingpad-a1/) - The World’s First Consumer-Level Linux Tablet.
 
-[INDIEGOGO Crowdfunding](https://www.indiegogo.com/projects/jingpad-world-s-first-linux-based-tablet/coming_soon/x/26085983)
+[Indiegogo Crowdfunding Campaign](https://www.indiegogo.com/projects/jingpad-world-s-first-linux-based-tablet/coming_soon/x/26085983)
 
-[JingPad video introduction](https://www.youtube.com/watch?v=rZugAfhWkPA)\
-[JingOS video introduction](https://www.youtube.com/watch?v=3E0ADUIiFzA)
+[JingPad Video Introduction](https://www.youtube.com/watch?v=rZugAfhWkPA)\
+[JingOS Video Introduction](https://www.youtube.com/watch?v=3E0ADUIiFzA)
 
-[Join our mailing list](http://hk.mikecrm.com/pg5E05S)\
-[Join our Discord channel](https://discord.gg/xEwDGW7RnJ)\
-[Join our Telegram channel](https://t.me/JingOS_Linux)
+[Join our Mailing List](http://hk.mikecrm.com/pg5E05S)\
+[Join our Discord Channel](https://discord.gg/xEwDGW7RnJ)\
+[Join our Telegram Channel](https://t.me/JingOS_Linux)
 
 
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
