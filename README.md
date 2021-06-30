@@ -67,7 +67,8 @@ on both tablet and desktop devices.
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/3730/assets/images/iW=2006&iH=1254&oX=0&oY=0&cW=2006&cH=1254/os-2@2x.jpg)
 
 JingOS is not only a tablet OS, but also a desktop OS. In tablet mode, you can
-watch movies, read books, play games using the mobile apps in JingOS.\For productivity you can connect
+watch movies, read books, play games using the mobile apps in JingOS.\
+For productivity you can connect
 a keyboard and a trackpad/mouse to switch to desktop mode. Then you can write
 documents, and even do coding.
 
