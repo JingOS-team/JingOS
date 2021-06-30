@@ -3,10 +3,8 @@
 # JingOS
 ### The World’s First Linux-Based OS Designed for Tablets
 
-JingOS is a 'convergent' Linux-based open-source mobile OS for tablets and mobile devices.
-
-It can run Linux apps and Android apps.
-
+JingOS is a 'convergent' Linux-based open-source mobile OS for tablets and mobile devices.\
+It can run Linux apps and Android apps.\
 It is created to allow natural control by touch, pencil, keyboard, and trackpad.
 
 [Download JingOS V0.9](https://jingos.feishu.cn/docs/doccnFhsqYIUT2ozejeOlfvMfsf)
@@ -15,12 +13,12 @@ It is created to allow natural control by touch, pencil, keyboard, and trackpad.
 
 [INDIEGOGO Crowdfunding](https://www.indiegogo.com/projects/jingpad-world-s-first-linux-based-tablet/coming_soon/x/26085983)
 
-[JingPad video introduction](https://www.youtube.com/watch?v=rZugAfhWkPA)
+[JingPad video introduction](https://www.youtube.com/watch?v=rZugAfhWkPA)\
 [JingOS video introduction](https://www.youtube.com/watch?v=3E0ADUIiFzA)
 
-[Join our mailing list](http://hk.mikecrm.com/pg5E05S) | 
-[Join our Discord](https://discord.gg/xEwDGW7RnJ) |
-[Join our Telegram](https://t.me/JingOS_Linux) 
+[Join our mailing list](http://hk.mikecrm.com/pg5E05S)\
+[Join our Discord channel](https://discord.gg/xEwDGW7RnJ)\
+[Join our Telegram channel](https://t.me/JingOS_Linux)\
 
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
 
@@ -115,17 +113,17 @@ We are based in Beijing and California.
 
 ## FAQ
 
-Is JingOS going to be opensource? And free software?
+Is JingOS free and open-source?
 
-> Yes, JingOS has been opensourced on Github. And JingOS will be free forever.
+> Yes, JingOS has been open-sourced here on Github. And the built OS can be downloaded on our website for free.
 
 What is JingOS based on?
 
-> JingOS is based on Ubuntu 20.04, KDE v5.75, Plasma Mobile 5.20. We will
-  replace the framework from Plasma Mobile to JDE (Jing Desktop Environment)
+> JingOS is based on Ubuntu 20.04, KDE Frameworks 5.75, and Plasma Mobile 5.20. <!--We will
+  replace the framework from Plasma Mobile to JDE (Jing Desktop Environment)-->
   later this year.
 
-What’s the roadmap of JingOS?
+<!--What’s the roadmap of JingOS?
 
 > I posted about Roadmap v1.0 of JingOS 90 in January. I will update the roadmap
   every quarter.
@@ -157,7 +155,19 @@ desktop apps on it? Will JingOS support android apps? To fill the gap with
 missing popular apps.
 
 > Linux apps (.deb, etc.) can run in JingOS well. You can run Android apps in
-  the JingOS ARM version after v1.0 in June.
+  the JingOS ARM version after v1.0 in June.-->
+  
+Can JingOS run Android apps?
+> There is no native support. But you can use Anbox to run Android apps. Here is the link: https://anbox.io
+
+Which device is the best for JingOS?
+> Touch screen devices like the Surface Pro 6. They support the functionality of JingOS best.
+
+Which devices have been tested with JingOS?
+> We tested Microsoft Surface, Huawei Mate Book, Lenovo Yoga Laptop, Eve V and Virtual machines on Windows 10. Furthermore we know that it was run on these devices by the community: Razer Blade Stealth 13.3", Dell Latitude 7275, and Teclast X16 Pro.
+
+Can I install JingOS on a ARM-based device?
+> Not at the moment, because JingOS v0.9 and below only supports x86-64 architecture. As soon the ARM version of JingOS is released we will support the community    to port it to ARM-based devices.
 
 ## Roadmap
 
@@ -173,13 +183,13 @@ missing popular apps.
   
 * JingOS v0.9: was released on May 31, 2021. Support for different resolutions, setting wallpapers,
   file (de)compression was added. The Notification Center and Control Panel were upgraded with the Gaussian blur effect. 
-  With v0.9 the password can be complex, i.e. contain. The mouse click accuracy was improved and several shortcuts were created.
+  With v0.9 the password can be complex, i.e. can contain characters, digits and symbols. The mouse click accuracy was improved and several shortcuts were created.
 
-* JingOS v1.0: will be released on Jun 30, 2021. Start supporting the JingPad A1, which is an ARM-based device.
+* JingOS v1.0: will be released shortly after Jul 30, 2021. For the first time JingOS will support an ARM-based device, the JingPad A1.
 
 #### We will release updates every month after June.
 
-### About open sourcing:
+### About open-sourcing:
 
 > JingOS is based on Ubuntu 20.04, KDE v5.75, Plasma Mobile 5.20. We will
   replace the framework from Plasma Mobile to JDE (Jing Desktop Environment)
