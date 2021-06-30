@@ -86,7 +86,7 @@ It is the most beautiful mobile Linux ever!
 JingOS even supports multitouch gestures, which is very important for modern
 tablets.
 
-### JingOS Support Linux Apps and Android Apps
+### JingOS Supports Linux Apps and Android Apps
 
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/3730/assets/images/iW=2280&iH=820&oX=0&oY=0&cW=2280&cH=820/a1-10@2x.jpg)
 
@@ -100,7 +100,7 @@ More and more apps are coming to our AppStore.
 
 *Android apps native support only available for ARM-based devices
 
-### Support Trackpad Gestures and Keyboard
+### Support for Trackpad Gestures and Keyboard
 
 ![](https://en-cdn.jingos.com/wp-content/uploads/2021/01/05-2.gif)
 
