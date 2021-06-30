@@ -7,7 +7,8 @@ It is created to allow natural control by touch, pencil, keyboard, and trackpad.
 
 [Download JingOS V0.9](https://jingos.feishu.cn/docs/doccnFhsqYIUT2ozejeOlfvMfsf)
 
-Here are some other links:\
+Here are some other links:
+
 [JingPad A1](https://en.jingos.com/jingpad-a1/) - The World’s First Consumer-Level Linux Tablet.
 
 [INDIEGOGO Crowdfunding](https://www.indiegogo.com/projects/jingpad-world-s-first-linux-based-tablet/coming_soon/x/26085983)
@@ -85,9 +86,9 @@ tablets.
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/3730/assets/images/iW=2280&iH=820&oX=0&oY=0&cW=2280&cH=820/a1-10@2x.jpg)
 
 We connect Linux and Android apps through technology, making JingOS a
-‘convergent’ Linux OS.\
+‘convergent’ Linux OS.
 You can use Linux desktop apps for productivity, and use Android apps for
-entertainment.\
+entertainment.
 More and more apps are coming to our AppStore.
 
 *Android apps native support only available for ARM-based devices
@@ -96,8 +97,8 @@ More and more apps are coming to our AppStore.
 
 ![](https://en-cdn.jingos.com/wp-content/uploads/2021/01/05-2.gif)
 
-JingOS has also optimized gestures for the trackpad.\
-You can use trackpad gestures similar to the screen gestures.\
+JingOS has also optimized gestures for the trackpad.
+You can use trackpad gestures similar to the screen gestures.
 This provides you a better experience when you are using your device in laptop mode.
 
 ## About us
@@ -186,9 +187,9 @@ Can I install JingOS on a ARM-based device?
   With v0.9 the password can be complex, i.e. can contain characters, digits and symbols. The mouse click accuracy was improved and several shortcuts were created.
 
 * JingOS v1.0: will be released shortly after Jul 30, 2021. For the first time JingOS will support an ARM-based device, the JingPad A1.
-
-#### We will release updates every month after June.
 <!--
+#### We will release updates every month after June.
+
 ### About open-sourcing:
 
 > JingOS is based on Ubuntu 20.04, KDE v5.75, Plasma Mobile 5.20. We will
