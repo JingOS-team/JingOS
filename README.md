@@ -1,10 +1,9 @@
 ## [Download JingOS V0.9](https://jingos.feishu.cn/docs/doccnFhsqYIUT2ozejeOlfvMfsf)
 
 # JingOS
-### The World’s First Linux-based OS designed for Tablets
+### The World’s First Linux-Based OS Designed for Tablets
 
-JingOS is a 'convergence' Linux-Based Open-Source mobile OS 
-for tablets and mobile devices.
+JingOS is a 'convergent' Linux-based open-source mobile OS for tablets and mobile devices.
 
 It can run Linux apps and Android apps.
 
@@ -12,7 +11,7 @@ It is adapted to run naturally with touch, pencil, keyboard and trackpad.
 
 [Download JingOS V0.9](https://jingos.feishu.cn/docs/doccnFhsqYIUT2ozejeOlfvMfsf)
 
-[JingPad A1](https://en.jingos.com/jingpad-a1/) - It is the World’s FIRST Consumer-level Linux Tablet.
+[JingPad A1](https://en.jingos.com/jingpad-a1/) - The World’s First Consumer-Level Linux Tablet.
 
 [INDIEGOGO Crowdfunding](https://www.indiegogo.com/projects/jingpad-world-s-first-linux-based-tablet/coming_soon/x/26085983)
 
@@ -28,44 +27,42 @@ It is adapted to run naturally with touch, pencil, keyboard and trackpad.
 ## Our Opensource Project
 
 [JingCore-WindowManger](https://github.com/JingOS-team/jing-kwin)
-JingCore-WindowManger is based on KDE Kwin , used to manage the application
-windows, and JingOS adds more gestures and other functions that are specially
-designed for a Tablet OS.
+JingCore-WindowManger is based on KDE Kwin, it is used to manage the application
+windows. More gestures and other functions that are specially
+designed for a Tablet OS are added.
 
 [JingCore-CommonComponents](https://github.com/JingOS-team/jing-kirigami)
-JingCore-CommonComponents is based on KDE Kirigami, and adds more components
-well designed for the Tablet OS.
+JingCore-CommonComponents is based on KDE Kirigami. It adds more well-designed components for a Tablet OS.
   
 [JingSystemui-Launcher](https://github.com/JingOS-team/jing-plasma-phone-components)
-This is the Launcher of JingOS, includes Home, Dock, Notification, Control
-Panel, which is based on KDE plasma-phone-components.
+This is the Launcher of JingOS, it includes Home, Dock, Notification, Control
+Panel. It is based on KDE plasma-phone-components.
 
 [JingApps-Photos](https://www.youtube.com/watch?v=3E0ADUIiFzA)
-Jing-Photos is based on Koko, a beautifully designed photos that conforms to the
-JingOS style and has a compatible pad / desktop experience.
+Jing-Photos is based on Koko. It is beautifully designed photo app that conforms to the
+JingOS style and combines both, tablet and desktop experience.
   
 [JingApps-Kalk](https://github.com/JingOS-team/jing-kalk)
-Jing-Kalk is based on Kalk. Jing-Kalk is a beautifully designed calculator that
-conforms to the JingOS style and Integrating the interactive experience of pad
-and PC.
+Jing-Kalk is based on Kalk. Jing-Kalk is the calculator app of JingOS. Its style is reshaped to perfectly
+blend into the JingOS UI and it supports both tablet and desktop mode.
   
 [JingApps-Haruna Video Player](https://github.com/JingOS-team/jing-haruna)
-Jing-Haruna is an open source video player built with Qt/QML on top of libmpv.
+Jing-Haruna is an open-source video player built with Qt/QML on top of libmpv.
 
 [JingApps-KRecorder](https://github.com/JingOS-team/jing-krecorder)
-Jing-KRecorder is based on KRecorder, a beautifully designed jing-krecorder that
-conforms to the JingOS style and has a compatible pad / desktop experience.
+Jing-KRecorder is based on KRecorder. It is JingOS' audio recorder app with a clean design, that
+matches the JingOS style. It unifies smooth tablet and desktop usage in one app.
 
 [JingApps-KClock](https://github.com/JingOS-team/jing-kclock)
-Jing-KClock is based on KClock, a beautifully designed clock that conforms to
-the JingOS style and has a compatible pad / desktop experience.
+Jing-KClock is the clock app of JingOS and it is based on KClock. Its neat design is created to conform to
+the JingOS style. It is compatible to tablet and desktop mode.
 
 [JingApps-Media-Player](https://github.com/JingOS-team/jing-media-player)
-Jing-Media-Player is based on vvave, Supports the scan and display of audio and
-video files that conforms to the JingOS style and has a compatible pad / desktop
-experience.
+Jing-Media-Player is based on Vvave. It allows to record and playback audio and
+video files. The UI is adapted to the JingOS style and it delivers a great user experience
+on both tablet and desktop devices.
 
-### Mobile & Desktop Experience Merge Together
+### Mobile & Desktop Experience Come Together
 
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/3730/assets/images/iW=2006&iH=1254&oX=0&oY=0&cW=2006&cH=1254/os-2@2x.jpg)
 
