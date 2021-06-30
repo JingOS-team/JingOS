@@ -7,6 +7,7 @@ It is created to allow natural control by touch, pencil, keyboard, and trackpad.
 
 [Download JingOS V0.9](https://jingos.feishu.cn/docs/doccnFhsqYIUT2ozejeOlfvMfsf)
 
+Here are some other links:\
 [JingPad A1](https://en.jingos.com/jingpad-a1/) - The World’s First Consumer-Level Linux Tablet.
 
 [INDIEGOGO Crowdfunding](https://www.indiegogo.com/projects/jingpad-world-s-first-linux-based-tablet/coming_soon/x/26085983)
@@ -187,13 +188,13 @@ Can I install JingOS on a ARM-based device?
 * JingOS v1.0: will be released shortly after Jul 30, 2021. For the first time JingOS will support an ARM-based device, the JingPad A1.
 
 #### We will release updates every month after June.
-
+<!--
 ### About open-sourcing:
 
 > JingOS is based on Ubuntu 20.04, KDE v5.75, Plasma Mobile 5.20. We will
   replace the framework from Plasma Mobile to JDE (Jing Desktop Environment)
   later this year.
-
+-->
 ## Press
 
 [Press Coverage](https://jingos.feishu.cn/sheets/shtcnTr6q3mmLsQyTSg99KRVMGc) -
