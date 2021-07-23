@@ -186,7 +186,7 @@ Can I install JingOS on a ARM-based device?
   file (de)compression was added. The Notification Center and Control Panel were upgraded with the Gaussian blur effect. 
   With v0.9 the password can be complex, i.e. can contain characters, digits and symbols. The mouse click accuracy was improved and several shortcuts were created.
 
-* JingOS v1.0: will be released shortly after Jul 30, 2021. For the first time JingOS will support an ARM-based device, the JingPad A1.
+* JingOS v1.0: will be released shortly after Aug 30, 2021. For the first time JingOS will support an ARM-based device, the JingPad A1.
 <!--
 #### We will release updates every month after June.
 
