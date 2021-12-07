@@ -5,16 +5,12 @@ JingOS is a 'convergent' Linux-based open-source mobile OS for tablets and mobil
 It can run Linux apps and Android apps.
 It is created to allow natural control by touch, pencil, keyboard, and trackpad.
 
-[Download JingOS v0.9](https://jingos.feishu.cn/docs/doccnFhsqYIUT2ozejeOlfvMfsf)
+[Download JingOS](https://en.jingos.com)
 
 Here are some other links:
 
 [JingPad A1](https://en.jingos.com/jingpad-a1/) - The World’s First Consumer-Level Linux Tablet.
 
-[Indiegogo Crowdfunding Campaign](https://www.indiegogo.com/projects/jingpad-world-s-first-linux-based-tablet/coming_soon/x/26085983)
-
-[JingPad Video Introduction](https://www.youtube.com/watch?v=rZugAfhWkPA)\
-[JingOS Video Introduction](https://www.youtube.com/watch?v=3E0ADUIiFzA)
 
 [Join our Mailing List](http://hk.mikecrm.com/pg5E05S)\
 [Join our Discord Channel](https://discord.gg/xEwDGW7RnJ)\
