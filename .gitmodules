@@ -142,6 +142,6 @@
 [submodule "apps/plasma-desktop"]
 	path = apps/plasma-desktop
 	url = https://github.com/JingOS-team/plasma-desktop.git
-[submodule "apps/ls"]
-	path = apps/ls
+[submodule "apps/videoplayer"]
+	path = apps/videoplayer
 	url = https://github.com/JingOS-team/videoplayer.git
