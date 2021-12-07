@@ -1,90 +1,147 @@
-[submodule "apps/mauikit"]
-	path = apps/mauikit
-	url = https://github.com/JingOS-team/mauikit
-[submodule "apps/qaptupdator"]
-	path = apps/qaptupdator
-	url = https://github.com/JingOS-team/qaptupdator
-[submodule "apps/powerdevil"]
-	path = apps/powerdevil
-	url = https://github.com/JingOS-team/powerdevil
-[submodule "apps/plasma-nm"]
-	path = apps/plasma-nm
-	url = https://github.com/JingOS-team/plasma-nm
-[submodule "apps/bluedevil"]
-	path = apps/bluedevil
-	url = https://github.com/JingOS-team/bluedevil
-[submodule "apps/calendar"]
-	path = apps/calendar
-	url = https://github.com/JingOS-team/calendar
-[submodule "apps/appstore"]
-	path = apps/appstore
-	url = https://github.com/JingOS-team/appstore
-[submodule "apps/camera"]
-	path = apps/camera
-	url = https://github.com/JingOS-team/camera
-[submodule "apps/recorder"]
-	path = apps/recorder
-	url = https://github.com/JingOS-team/recorder
-[submodule "apps/photo"]
-	path = apps/photo
-	url = https://github.com/JingOS-team/photo
-[submodule "apps/mediaplayer"]
-	path = apps/mediaplayer
-	url = https://github.com/JingOS-team/mediaplayer
-[submodule "apps/clock"]
-	path = apps/clock
-	url = https://github.com/JingOS-team/clock
-[submodule "apps/calculator"]
-	path = apps/calculator
-	url = https://github.com/JingOS-team/calculator
-[submodule "apps/filemanager"]
-	path = apps/filemanager
-	url = https://github.com/JingOS-team/filemanager
-[submodule "apps/videoplayer"]
-	path = apps/videoplayer
-	url = https://github.com/JingOS-team/videoplayer
-[submodule "apps/settings"]
-	path = apps/settings
-	url = https://github.com/JingOS-team/settings
-[submodule "apps/plasma-desktop"]
-	path = apps/plasma-desktop
-	url = https://github.com/JingOS-team/plasma-desktop
-[submodule "framework/kwin"]
-	path = framework/kwin
-	url = https://github.com/JingOS-team/kwin
-[submodule "framework/kwayland"]
-	path = framework/kwayland
-	url = https://github.com/JingOS-team/kwayland
-[submodule "framework/kwayland-server"]
-	path = framework/kwayland-server
-	url = https://github.com/JingOS-team/kwayland-server
-[submodule "framework/plasma-wayland-protocols"]
-	path = framework/plasma-wayland-protocols
-	url = https://github.com/JingOS-team/plasma-wayland-protocols
-[submodule "systemui/polkit-kde-agent-1"]
-	path = systemui/polkit-kde-agent-1
-	url = https://github.com/JingOS-team/polkit-kde-agent-1
-[submodule "systemui/kscreenlocker"]
-	path = systemui/kscreenlocker
-	url = https://github.com/JingOS-team/kscreenlocker
-[submodule "systemui/kscreen"]
-	path = systemui/kscreen
-	url = https://github.com/JingOS-team/kscreen
-[submodule "systemui/qapt"]
-	path = systemui/qapt
-	url = https://github.com/JingOS-team/qapt
-[submodule "systemui/plasma-framework"]
-	path = systemui/plasma-framework
-	url = https://github.com/JingOS-team/plasma-framework
-[submodule "systemui/plasma-nano"]
-	path = systemui/plasma-nano
-	url = https://github.com/JingOS-team/plasma-nano
-[submodule "systemui/plasma-phone-components"]
-	path = systemui/plasma-phone-components
-	url = https://github.com/JingOS-team/plasma-phone-components
-[submodule "systemui/plasma-workspace"]
-	path = systemui/plasma-workspace
-	url = https://github.com/JingOS-team/plasma-workspace
 [submodule "systemui/controlkit"]
 	path = systemui/controlkit
-	url = https://github.com/JingOS-team/controlkit
+	url = https://github.com/JingOS-team/controlkit.git
+[submodule "systemui/plasma-nano"]
+	path = systemui/plasma-nano
+	url = https://github.com/JingOS-team/plasma-nano.git
+[submodule "systemui/kscreenlocker"]
+	path = systemui/kscreenlocker
+	url = https://github.com/JingOS-team/kscreenlocker.git
+[submodule "systemui/plasma-workspace"]
+	path = systemui/plasma-workspace
+	url = https://github.com/JingOS-team/plasma-workspace.git
+[submodule "systemui/plasma-phone-components"]
+	path = systemui/plasma-phone-components
+	url = https://github.com/JingOS-team/plasma-phone-components.git
+[submodule "systemui/plasma-framework"]
+	path = systemui/plasma-framework
+	url = https://github.com/JingOS-team/plasma-framework.git
+[submodule "systemui/maliit-keyboard"]
+	path = systemui/maliit-keyboard
+	url = https://github.com/JingOS-team/maliit-keyboard.git
+[submodule "systemui/simplelogin"]
+	path = systemui/simplelogin
+	url = https://github.com/JingOS-team/simplelogin.git
+[submodule "systemui/polkit-kde-agent-1"]
+	path = systemui/polkit-kde-agent-1
+	url = https://github.com/JingOS-team/polkit-kde-agent-1.git
+[submodule "systemui/kscreen"]
+	path = systemui/kscreen
+	url = https://github.com/JingOS-team/kscreen.git
+[submodule "framework/NetworkManager"]
+	path = framework/NetworkManager
+	url = https://github.com/JingOS-team/NetworkManager.git
+[submodule "framework/kwin"]
+	path = framework/kwin
+	url = https://github.com/JingOS-team/kwin.git
+[submodule "framework/qtdeclarative"]
+	path = framework/qtdeclarative
+	url = https://github.com/JingOS-team/qtdeclarative.git
+[submodule "framework/qapt"]
+	path = framework/qapt
+	url = https://github.com/JingOS-team/qapt.git
+[submodule "framework/powerdevil"]
+	path = framework/powerdevil
+	url = https://github.com/JingOS-team/powerdevil.git
+[submodule "framework/qtwayland"]
+	path = framework/qtwayland
+	url = https://github.com/JingOS-team/qtwayland.git
+[submodule "framework/repowerd"]
+	path = framework/repowerd
+	url = https://github.com/JingOS-team/repowerd.git
+[submodule "framework/sensorfw"]
+	path = framework/sensorfw
+	url = https://github.com/JingOS-team/sensorfw.git
+[submodule "framework/ofono"]
+	path = framework/ofono
+	url = https://github.com/JingOS-team/ofono.git
+[submodule "framework/pulseaudio"]
+	path = framework/pulseaudio
+	url = https://github.com/JingOS-team/pulseaudio.git
+[submodule "framework/solid"]
+	path = framework/solid
+	url = https://github.com/JingOS-team/solid.git
+[submodule "framework/kio"]
+	path = framework/kio
+	url = https://github.com/JingOS-team/kio.git
+[submodule "framework/maliit-framework"]
+	path = framework/maliit-framework
+	url = https://github.com/JingOS-team/maliit-framework.git
+[submodule "framework/libinput"]
+	path = framework/libinput
+	url = https://github.com/JingOS-team/libinput.git
+[submodule "framework/kwayland"]
+	path = framework/kwayland
+	url = https://github.com/JingOS-team/kwayland.git
+[submodule "framework/kwayland-server"]
+	path = framework/kwayland-server
+	url = https://github.com/JingOS-team/kwayland-server.git
+[submodule "framework/plasma-wayland-protocols"]
+	path = framework/plasma-wayland-protocols
+	url = https://github.com/JingOS-team/plasma-wayland-protocols.git
+[submodule "framework/jappmanager"]
+	path = framework/jappmanager
+	url = https://github.com/JingOS-team/jappmanager.git
+[submodule "apps/qaptupdator"]
+	path = apps/qaptupdator
+	url = https://github.com/JingOS-team/qaptupdator.git
+[submodule "apps/plasma-settings"]
+	path = apps/plasma-settings
+	url = https://github.com/JingOS-team/plasma-settings.git
+[submodule "apps/bluedevil"]
+	path = apps/bluedevil
+	url = https://github.com/JingOS-team/bluedevil.git
+[submodule "apps/plasma-nm"]
+	path = apps/plasma-nm
+	url = https://github.com/JingOS-team/plasma-nm.git
+[submodule "apps/mauikit"]
+	path = apps/mauikit
+	url = https://github.com/JingOS-team/mauikit.git
+[submodule "apps/plasma-phone-settings"]
+	path = apps/plasma-phone-settings
+	url = https://github.com/JingOS-team/plasma-phone-settings.git
+[submodule "apps/index"]
+	path = apps/index
+	url = https://github.com/JingOS-team/index.git
+[submodule "apps/vvave"]
+	path = apps/vvave
+	url = https://github.com/JingOS-team/vvave.git
+[submodule "apps/plasma-camera"]
+	path = apps/plasma-camera
+	url = https://github.com/JingOS-team/plasma-camera.git
+[submodule "kernel/kernel4.14"]
+	path = kernel/kernel4.14
+	url = https://github.com/JingOS-team/kernel4.14.git
+[submodule "kernel/lxc-pkg-ubuntu"]
+	path = kernel/lxc-pkg-ubuntu
+	url = https://github.com/JingOS-team/lxc-pkg-ubuntu.git
+[submodule "apps/plasma-discover"]
+	path = apps/plasma-discover
+	url = https://github.com/JingOS-team/plasma-discover.git
+[submodule "apps/ffmpegthumbs"]
+	path = apps/ffmpegthumbs
+	url = https://github.com/JingOS-team/ffmpegthumbs.git
+[submodule "apps/konsole"]
+	path = apps/konsole
+	url = https://github.com/JingOS-team/konsole.git
+[submodule "apps/recorder"]
+	path = apps/recorder
+	url = https://github.com/JingOS-team/recorder.git
+[submodule "apps/Koko"]
+	path = apps/Koko
+	url = https://github.com/JingOS-team/Koko.git
+[submodule "apps/Calindori"]
+	path = apps/Calindori
+	url = https://github.com/JingOS-team/Calindori.git
+[submodule "apps/Kalk"]
+	path = apps/Kalk
+	url = https://github.com/JingOS-team/Kalk.git
+[submodule "apps/KClock"]
+	path = apps/KClock
+	url = https://github.com/JingOS-team/KClock.git
+[submodule "apps/plasma-desktop"]
+	path = apps/plasma-desktop
+	url = https://github.com/JingOS-team/plasma-desktop.git
+[submodule "apps/ls"]
+	path = apps/ls
+	url = https://github.com/JingOS-team/videoplayer.git
