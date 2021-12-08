@@ -10,11 +10,15 @@ It is created to allow natural control by touch, pencil, keyboard, and trackpad.
 Here are some other links:
 
 [JingPad A1](https://en.jingos.com/jingpad-a1/) - The World’s First Consumer-Level Linux Tablet.
+[Buy JingPad A1](http://shop/jingos.com)
 
-
-[Join our Mailing List](http://hk.mikecrm.com/pg5E05S)\
-[Join our Discord Channel](https://discord.gg/xEwDGW7RnJ)\
-[Join our Telegram Channel](https://t.me/JingOS_Linux)
+## Newsletter and Community 
+[Mailing List](http://hk.mikecrm.com/pg5E05S)\
+[Discord Channel](https://discord.gg/xEwDGW7RnJ)\
+[Telegram Channel](https://t.me/JingOS_Linux)
+[Twitter](http://www.twitter.com/jingos_official)
+[YouTube](https://www.youtube.com/c/JingOS-team/videos)
+[Facebook Page](https://www.facebook.com/JingOSfb)
 
 
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
