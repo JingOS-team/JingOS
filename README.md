@@ -112,13 +112,11 @@ We are based in Beijing and California.
 
 Is JingOS free and open-source?
 
-> Yes, JingOS has been open-sourced here on Github. And the built OS can be downloaded on our website for free.
+> Yes, JingOS has been open-sourced here on Github. And the image files of JingOS can be downloaded from our website.
 
 What is JingOS based on?
 
-> JingOS is based on Ubuntu 20.04, KDE Frameworks 5.75, and Plasma Mobile 5.20. <!--We will
-  replace the framework from Plasma Mobile to JDE (Jing Desktop Environment)-->
-  later this year.
+> JingOS is based on Ubuntu 20.04, KDE Frameworks 5.75, and Plasma Mobile 5.20.
 
 <!--What’s the roadmap of JingOS?
 
@@ -155,16 +153,8 @@ missing popular apps.
   the JingOS ARM version after v1.0 in June.-->
   
 Can JingOS run Android apps?
-> There is no native support. But you can use Anbox to run Android apps. Here is the link: https://anbox.io
+> JingOS ARM for JingPad A1 can run Android apps. For more information, please go to Wiki
 
-Which device is the best for JingOS?
-> Touch screen devices like the Surface Pro 6. They support the functionality of JingOS best.
-
-Which devices have been tested with JingOS?
-> We tested Microsoft Surface, Huawei Mate Book, Lenovo Yoga Laptop, Eve V and Virtual machines on Windows 10. Furthermore we know that it was run on these devices by the community: Razer Blade Stealth 13.3", Dell Latitude 7275, and Teclast X16 Pro.
-
-Can I install JingOS on a ARM-based device?
-> Not at the moment, because JingOS v0.9 and below only supports x86-64 architecture. As soon the ARM version of JingOS is released we will support the community    to port it to ARM-based devices.
 
 ## Roadmap
 
@@ -182,7 +172,10 @@ Can I install JingOS on a ARM-based device?
   file (de)compression was added. The Notification Center and Control Panel were upgraded with the Gaussian blur effect. 
   With v0.9 the password can be complex, i.e. can contain characters, digits and symbols. The mouse click accuracy was improved and several shortcuts were created.
 
-* JingOS v1.0: will be released shortly after Aug 30, 2021. For the first time JingOS will support an ARM-based device, the JingPad A1.
+* JingOS v1.0 ARM: We released this version on September 28th, 2021. 
+* JingOS V1.1 ARM: Released on Nov. 6, 2021
+* JingOS V1.1.1 ARM: Released on Nov.31, 2021
+
 <!--
 #### We will release updates every month after June.
 
