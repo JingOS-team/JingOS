@@ -116,7 +116,7 @@ We are based in Beijing and California.
 
 Is JingOS free and open-source?
 
-> Yes, JingOS has been open-sourced here on Github. And the image files of JingOS can be downloaded from our website.
+> Yes, JingOS has been open-sourced here on GitHub. And the image files of JingOS can be downloaded from our website.
 
 What is JingOS based on?
 
