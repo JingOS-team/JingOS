@@ -22,6 +22,8 @@ JingOS是一款基于 Linux 的“融合”开源移动操作系统，可用于�
 [加入我们的邮件列表](http://hk.mikecrm.com/pg5E05S)\
 [加入我们的 Discord 频道](https://discord.gg/xEwDGW7RnJ)\
 [加入我们的 Telegram 频道](https://t.me/JingOS_Linux)
+[Matrix Room](https://matrix.to/#/#jingos:matrix.org)\
+[Mastodon social](https://mastodon.social/@jingos_official)\
 
 
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
