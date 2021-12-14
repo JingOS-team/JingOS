@@ -15,10 +15,10 @@ Here are some other links:
 ## Newsletter and Community 
 [Mailing List](http://hk.mikecrm.com/pg5E05S)\
 [Discord Channel](https://discord.gg/xEwDGW7RnJ)\
-[Telegram Channel](https://t.me/JingOS_Linux)
-[Twitter](http://www.twitter.com/jingos_official)
-[YouTube](https://www.youtube.com/c/JingOS-team/videos)
-[Facebook Page](https://www.facebook.com/JingOSfb)
+[Telegram Channel](https://t.me/JingOS_Linux)\
+[Twitter](http://www.twitter.com/jingos_official)\
+[YouTube](https://www.youtube.com/c/JingOS-team/videos)\
+[Facebook Page](https://www.facebook.com/JingOSfb)\
 [Matrix Room](https://matrix.to/#/#jingos:matrix.org)\
 [Mastodon social](https://mastodon.social/@jingos_official)\
 
