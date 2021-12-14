@@ -12,10 +12,10 @@ Es kann nativ Linux und Android-Apps ausführen und ist angepasst, um intuitiv m
 [Download JingOS V0.8.1](https://hk.mikecrm.com/N0wgIm4)
 
 [Mailingliste beitreten](http://hk.mikecrm.com/pg5E05S) | 
-[Telegram beitreten](https://t.me/JingOS_Linux) | 
-[Discord beitreten](https://discord.gg/xEwDGW7RnJ)
-[Matrix Raum](https://matrix.to/#/#jingos:matrix.org)\
-[Mastodon folgen](https://mastodon.social/@jingos_official)\
+[Telegram beitreten](https://t.me/JingOS_Linux) |
+[Discord beitreten](https://discord.gg/xEwDGW7RnJ)|
+[Matrix Raum](https://matrix.to/#/#jingos:matrix.org)|
+[Mastodon folgen](https://mastodon.social/@jingos_official)
 
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
 

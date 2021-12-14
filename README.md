@@ -20,7 +20,7 @@ Here are some other links:
 [YouTube](https://www.youtube.com/c/JingOS-team/videos)\
 [Facebook Page](https://www.facebook.com/JingOSfb)\
 [Matrix Room](https://matrix.to/#/#jingos:matrix.org)\
-[Mastodon social](https://mastodon.social/@jingos_official)\
+[Mastodon social](https://mastodon.social/@jingos_official)
 
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
 
