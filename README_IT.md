@@ -18,6 +18,8 @@ E' progettato per funzionare in maniera naturale con touch, pennino, tastiera e 
 [Iscriviti alla nostra mailing list](http://hk.mikecrm.com/pg5E05S) | 
 [Seguici su Telegram](https://t.me/JingOS_Linux) | 
 [Seguici su Discord](https://discord.gg/xEwDGW7RnJ)
+[Seguici su Matrix](https://matrix.to/#/#jingos:matrix.org)\
+[Seguici su Mastodon](https://mastodon.social/@jingos_official)\
 
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
 
