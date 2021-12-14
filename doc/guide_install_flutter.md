@@ -100,3 +100,4 @@ dart compile exe bin/myapp.dart -o bin/runme
 ```
 
 and off you go dev'ing!
+written and thus under the responsability of bboett
