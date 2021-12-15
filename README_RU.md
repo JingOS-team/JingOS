@@ -14,9 +14,9 @@ JingOS это удобная, основанная на Linux, мобильна�
 
 [Подписаться на рассылку](http://hk.mikecrm.com/pg5E05S) | 
 [Группа в Telegram](https://t.me/JingOS_Linux) | 
-[Чат в Discord](https://discord.gg/xEwDGW7RnJ)
-[Matrix Room](https://matrix.to/#/#jingos:matrix.org)\
-[Mastodon social](https://mastodon.social/@jingos_official)\
+[Чат в Discord](https://discord.gg/xEwDGW7RnJ)|
+[Matrix Room](https://matrix.to/#/#jingos:matrix.org)|
+[Mastodon social](https://mastodon.social/@jingos_official)
 
 ![](https://en-cdn.jingos.com/wp-content/uploads/brizy/143/assets/images/iW=667&iH=438&oX=0&oY=2&cW=667&cH=435/Lark20201228-151833.png)
 
