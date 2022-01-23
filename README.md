@@ -180,6 +180,7 @@ Can JingOS run Android apps?
 * JingOS v1.0 ARM: We released this version on September 28th, 2021. 
 * JingOS V1.1 ARM: Released on Nov. 6, 2021
 * JingOS V1.1.1 ARM: Released on Nov.30, 2021
+* JingOS V1.2 ARM: Released on Jan. 20, 2022
 
 <!--
 #### We will release updates every month after June.
